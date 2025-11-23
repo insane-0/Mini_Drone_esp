@@ -3776,7 +3776,7 @@
 	)
 	(text "MOTOR DRIVER \n"
 		(exclude_from_sim no)
-		(at 13.462 210.566 0)
+		(at 29.718 217.424 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3817,28 +3817,46 @@
 		(uuid "86345012-02b8-46e0-82dd-35363c0b971d")
 	)
 	(junction
-		(at 217.17 233.68)
+		(at 115.57 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0135c554-1575-4a23-a6c7-470ad2459a18")
+		(uuid "07337ded-6e52-4f3a-bfde-ffce7d0b3a1f")
 	)
 	(junction
-		(at 105.41 231.14)
+		(at 180.34 232.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "02cc2250-58ed-46af-9c0b-9748d2119921")
+		(uuid "0759f723-4e95-4e2e-b43a-a0c4e662f716")
 	)
 	(junction
-		(at 166.37 233.68)
+		(at 176.53 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "083981dc-d459-4e23-bd15-0c6ee14c50f2")
+		(uuid "0ae5189a-878d-431c-804b-7e35603a2cb6")
+	)
+	(junction
+		(at 176.53 243.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e431d99-3fda-4a12-b2dc-e5d0f82973df")
 	)
 	(junction
 		(at 102.87 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f52baf7-7056-4d1d-8881-01dfcf034389")
+	)
+	(junction
+		(at 220.98 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f683779-8092-44fb-ba23-411e88981294")
+	)
+	(junction
+		(at 241.3 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1524e6c4-e478-48cc-8564-29c51c137cad")
 	)
 	(junction
 		(at 49.53 241.3)
@@ -3853,16 +3871,16 @@
 		(uuid "272ab3bb-e1bc-40d9-b630-931b3746278f")
 	)
 	(junction
-		(at 161.29 233.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ff35125-a353-4f54-a065-60d614823e62")
-	)
-	(junction
 		(at 207.01 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "333a9613-c675-4cb2-82a2-3f1ccd3bb667")
+	)
+	(junction
+		(at 165.1 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "347c8fd3-1260-407d-a52d-c775886bd6aa")
 	)
 	(junction
 		(at 53.34 237.49)
@@ -3871,22 +3889,10 @@
 		(uuid "370b57e4-fac1-4779-8a0e-473c769c887e")
 	)
 	(junction
-		(at 218.44 270.51)
+		(at 237.49 247.65)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "37e336fa-6f94-40d1-b4fb-6a54deb41e7e")
-	)
-	(junction
-		(at 222.25 241.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3973180c-1e50-4a08-8aeb-4d9b76eb2bc4")
-	)
-	(junction
-		(at 162.56 270.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45d93924-4304-4a5a-aed1-9341b6bb9340")
+		(uuid "485e1ab8-6b03-46c0-a5b1-39c2e1d5ccc5")
 	)
 	(junction
 		(at 207.01 38.1)
@@ -3901,16 +3907,10 @@
 		(uuid "4d13777e-bd79-4fd0-9f5e-ad75c651e137")
 	)
 	(junction
-		(at 166.37 241.3)
+		(at 237.49 245.11)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "566632e3-d728-44fa-bf15-12be3a3c704a")
-	)
-	(junction
-		(at 106.68 267.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "575e04ed-8e89-4882-905e-9201a1d0399c")
+		(uuid "58cf8fc7-0629-485b-9947-4b8b530e8a16")
 	)
 	(junction
 		(at 115.57 121.92)
@@ -3949,16 +3949,16 @@
 		(uuid "64b08cbc-54b1-4d29-9dff-695375b93a8b")
 	)
 	(junction
-		(at 110.49 231.14)
+		(at 241.3 241.3)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6685c86f-0d84-4ead-805e-0f07bc08a277")
+		(uuid "6cb63744-d1ba-4df5-b259-a4e2db3cfa44")
 	)
 	(junction
-		(at 90.17 252.73)
+		(at 160.02 254)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "67b91bdf-f982-44be-81a6-43215816988f")
+		(uuid "71ad6e32-3241-4276-997a-8120da2c7bb8")
 	)
 	(junction
 		(at 33.02 251.46)
@@ -3967,22 +3967,40 @@
 		(uuid "7603f05f-f00b-4fed-92b7-2de109c9fa06")
 	)
 	(junction
-		(at 222.25 233.68)
+		(at 237.49 270.51)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7a1bfd46-c109-4c95-8d3b-9b6364687ad2")
+		(uuid "771c03cb-00cc-4e51-9575-5fc1a2e17cca")
 	)
 	(junction
-		(at 162.56 247.65)
+		(at 119.38 240.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8ab05fea-d1e3-498f-8d20-dc065048c082")
+		(uuid "794121c3-2829-4141-9c97-5ea01bd47f76")
 	)
 	(junction
-		(at 201.93 255.27)
+		(at 115.57 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8ca50baf-0a5d-45de-84b3-9e211a56db40")
+		(uuid "82e84687-c7a6-4995-8a8a-3ce65d04862d")
+	)
+	(junction
+		(at 226.06 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85e55054-4409-46ee-a4a9-b2e3dce85b9b")
+	)
+	(junction
+		(at 119.38 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88f35906-716d-4fc0-b548-e8f858c21b3d")
+	)
+	(junction
+		(at 180.34 240.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b3e0fb3-504c-44a0-aacf-e4f7410a2434")
 	)
 	(junction
 		(at 128.27 121.92)
@@ -3991,10 +4009,22 @@
 		(uuid "9071987a-de02-46a9-81d4-4118a27d218c")
 	)
 	(junction
-		(at 218.44 245.11)
+		(at 175.26 232.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "aa589e8e-c66b-4069-8d63-e3eb8bb44d56")
+		(uuid "95c2fa9c-e903-43d2-b98a-44d924a95fe5")
+	)
+	(junction
+		(at 115.57 269.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98d2c6e5-349f-43a8-b5b9-0932b2fe57fc")
+	)
+	(junction
+		(at 104.14 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9dc83e9-1921-4122-80d2-9810539037a9")
 	)
 	(junction
 		(at 53.34 229.87)
@@ -4003,22 +4033,10 @@
 		(uuid "b9ea6297-a56e-44e5-b45c-22d5885583c3")
 	)
 	(junction
-		(at 146.05 255.27)
+		(at 114.3 232.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bacdd2a9-989f-49ac-8468-56e38d47fabb")
-	)
-	(junction
-		(at 162.56 245.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bfe58f77-a796-4450-b381-58f53aa410db")
-	)
-	(junction
-		(at 218.44 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c63602b6-1151-426e-a270-fc331155fa2d")
+		(uuid "c0c23b0f-dfd4-4c11-b8ef-ed0ebe7ff41f")
 	)
 	(junction
 		(at 64.77 147.32)
@@ -4027,16 +4045,22 @@
 		(uuid "c6c2ebb3-7169-4ff2-969b-ad5cf39dcccd")
 	)
 	(junction
-		(at 110.49 238.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4eee161-a823-4965-8fe8-71602b3df204")
-	)
-	(junction
 		(at 49.53 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5353ccb-b9cb-41e5-ac19-500bcf1aa359")
+	)
+	(junction
+		(at 99.06 254)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d5756e9e-c8c2-4a6d-bbd5-59291e3c3ea4")
+	)
+	(junction
+		(at 38.1 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e287075f-96fc-4d17-9c10-2d1976c9c121")
 	)
 	(junction
 		(at 118.11 39.37)
@@ -4045,22 +4069,22 @@
 		(uuid "e8dab706-3c85-4797-9c37-7342309d01f7")
 	)
 	(junction
+		(at 176.53 269.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9bb23be-e885-4576-8b07-48704921e7e9")
+	)
+	(junction
 		(at 48.26 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed1046dc-fbdc-43a7-9dc3-90ed382b024a")
 	)
 	(junction
-		(at 106.68 245.11)
+		(at 236.22 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f0d83078-ad76-479b-8e94-f23210acda44")
-	)
-	(junction
-		(at 106.68 242.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fa6b2e2b-8d7b-4d14-b23d-f6331f32a191")
+		(uuid "fb74d173-fe2f-4d9e-becc-932c36cf3ee9")
 	)
 	(junction
 		(at 205.74 38.1)
@@ -4086,16 +4110,6 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 255.27) (xy 210.82 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0098d542-a66e-46dd-a4dc-f8fceec8f815")
-	)
-	(wire
-		(pts
 			(xy 26.67 231.14) (xy 26.67 233.68)
 		)
 		(stroke
@@ -4103,6 +4117,16 @@
 			(type default)
 		)
 		(uuid "014d3a6b-3bbd-4df0-97c6-e0f7e8ac1bd0")
+	)
+	(wire
+		(pts
+			(xy 218.44 233.68) (xy 226.06 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01aaba03-5652-4d9c-9bf1-51358e594594")
 	)
 	(wire
 		(pts
@@ -4126,13 +4150,43 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 233.68) (xy 161.29 233.68)
+			(xy 175.26 231.14) (xy 175.26 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "08dbb07b-6365-42e7-95d6-6c771f32d76f")
+		(uuid "05b0c528-5c1a-486e-9fb9-2370076a1b3e")
+	)
+	(wire
+		(pts
+			(xy 31.75 233.68) (xy 31.75 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "068fb3e8-d0fd-4fa6-b2ac-c9c20a2bff6f")
+	)
+	(wire
+		(pts
+			(xy 220.98 270.51) (xy 237.49 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06c32688-888c-4fbf-b442-6f3718c2d7a2")
+	)
+	(wire
+		(pts
+			(xy 160.02 236.22) (xy 160.02 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "097c9564-8401-4740-be39-9340d02da892")
 	)
 	(wire
 		(pts
@@ -4156,6 +4210,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 254) (xy 99.06 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ad18b7a-2c42-4d0a-bad3-03d08e739536")
+	)
+	(wire
+		(pts
 			(xy 147.32 38.1) (xy 147.32 35.56)
 		)
 		(stroke
@@ -4163,6 +4227,16 @@
 			(type default)
 		)
 		(uuid "0bad9919-28b3-4591-bf66-0a8ad5651828")
+	)
+	(wire
+		(pts
+			(xy 176.53 269.24) (xy 182.88 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c08022d-ffdf-4ab4-b379-c3ea600de96e")
 	)
 	(wire
 		(pts
@@ -4186,13 +4260,13 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 231.14) (xy 120.65 231.14)
+			(xy 212.09 255.27) (xy 220.98 255.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0e1f3bf9-ed2a-45ee-9ce4-688485ba35e9")
+		(uuid "0f281abf-0ca2-4cb6-bd86-c677f788fc13")
 	)
 	(wire
 		(pts
@@ -4216,13 +4290,13 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 255.27) (xy 146.05 255.27)
+			(xy 165.1 243.84) (xy 165.1 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "12c46e84-2c50-4921-9d4d-5c7b19d594ba")
+		(uuid "1321190b-80a8-4c27-a068-b13a858733b1")
 	)
 	(wire
 		(pts
@@ -4233,16 +4307,6 @@
 			(type default)
 		)
 		(uuid "134b05c3-71e2-4148-bcf0-4c982a6ccba4")
-	)
-	(wire
-		(pts
-			(xy 207.01 245.11) (xy 207.01 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13f527b6-01dc-482a-9b6c-467fb28ec12f")
 	)
 	(wire
 		(pts
@@ -4266,6 +4330,36 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 232.41) (xy 236.22 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "199ee1c7-1c0a-4151-a0b5-f9bcdd30e22d")
+	)
+	(wire
+		(pts
+			(xy 99.06 265.43) (xy 99.06 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a5a5aad-4f92-40f7-8908-ad8c9f3c245f")
+	)
+	(wire
+		(pts
+			(xy 176.53 271.78) (xy 176.53 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aeb512f-22ad-4558-9727-4eb3b84bfe3c")
+	)
+	(wire
+		(pts
 			(xy 50.8 60.96) (xy 50.8 50.8)
 		)
 		(stroke
@@ -4276,13 +4370,13 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 255.27) (xy 146.05 259.08)
+			(xy 99.06 254) (xy 107.95 254)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1f930701-5356-47b9-9acf-3036a9dca947")
+		(uuid "1fc51453-5a86-4c3b-90e0-a1444a03800c")
 	)
 	(wire
 		(pts
@@ -4296,13 +4390,13 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 270.51) (xy 218.44 270.51)
+			(xy 175.26 232.41) (xy 180.34 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "25751b80-9944-4739-9703-1e2637b41e71")
+		(uuid "24deb207-9388-427d-bdf6-fdc604fbc324")
 	)
 	(wire
 		(pts
@@ -4356,13 +4450,13 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 267.97) (xy 106.68 267.97)
+			(xy 115.57 240.03) (xy 119.38 240.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2cb284f7-1b75-4550-9ac7-9708e10499ab")
+		(uuid "2c92126b-76eb-4351-b697-35912400c224")
 	)
 	(wire
 		(pts
@@ -4386,16 +4480,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 266.7) (xy 146.05 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "300a3ee7-9429-4391-a693-b93ac8e31812")
-	)
-	(wire
-		(pts
 			(xy 157.48 29.21) (xy 157.48 33.02)
 		)
 		(stroke
@@ -4416,6 +4500,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 232.41) (xy 119.38 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "324872e6-b615-4cd1-9d5b-93c1e80520c6")
+	)
+	(wire
+		(pts
 			(xy 33.02 251.46) (xy 41.91 251.46)
 		)
 		(stroke
@@ -4426,13 +4520,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 231.14) (xy 110.49 231.14)
+			(xy 176.53 259.08) (xy 176.53 269.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3892a8f7-624b-40f4-9c7d-a401eecc6961")
+		(uuid "367a3894-e8fd-4bcd-9b4e-d95574f031a8")
 	)
 	(wire
 		(pts
@@ -4446,43 +4540,43 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 234.95) (xy 195.58 237.49)
+			(xy 115.57 271.78) (xy 115.57 269.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3bbc6e68-bb44-4703-8a7f-6516244c8062")
+		(uuid "3e0f7e9a-8bc2-4777-824f-f7c17b99e487")
 	)
 	(wire
 		(pts
-			(xy 217.17 233.68) (xy 222.25 233.68)
+			(xy 111.76 243.84) (xy 115.57 243.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3d6299ae-e39b-4069-b16a-671748109678")
+		(uuid "3f266ab2-9611-437f-a287-ed0dd08b5720")
 	)
 	(wire
 		(pts
-			(xy 162.56 260.35) (xy 162.56 270.51)
+			(xy 176.53 240.03) (xy 180.34 240.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3da648ec-0a3c-4693-bd99-7cd12489c28b")
+		(uuid "3f3945c7-6d7c-407a-86d1-9e679141f0ab")
 	)
 	(wire
 		(pts
-			(xy 201.93 255.27) (xy 201.93 259.08)
+			(xy 160.02 254) (xy 168.91 254)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "416a6f92-155e-4940-96f9-2de141a70952")
+		(uuid "426c3592-61fc-4de2-b4a5-881622df1b32")
 	)
 	(wire
 		(pts
@@ -4506,6 +4600,36 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 229.87) (xy 38.1 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46c11e6a-05aa-4345-9974-5e208c52ed67")
+	)
+	(wire
+		(pts
+			(xy 114.3 231.14) (xy 114.3 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "472d9bc0-ea10-4168-a6b5-65031d926035")
+	)
+	(wire
+		(pts
+			(xy 49.53 269.24) (xy 49.53 266.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "476cc42b-834e-4baa-9024-9bba6340b5c3")
+	)
+	(wire
+		(pts
 			(xy 33.02 251.46) (xy 33.02 255.27)
 		)
 		(stroke
@@ -4516,23 +4640,23 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 267.97) (xy 113.03 267.97)
+			(xy 220.98 255.27) (xy 220.98 259.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "492f0645-ec00-4a97-9ea6-3dee57f85aec")
+		(uuid "4c1da316-53ec-4b12-859e-892f4124d828")
 	)
 	(wire
 		(pts
-			(xy 105.41 229.87) (xy 105.41 231.14)
+			(xy 115.57 248.92) (xy 115.57 246.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "499f7458-eea6-4cd3-868d-91bef6dea1b8")
+		(uuid "4c317abf-74bc-4354-8d65-0c93927dc6cd")
 	)
 	(wire
 		(pts
@@ -4543,6 +4667,56 @@
 			(type default)
 		)
 		(uuid "4c9b7338-f091-4d79-a731-c5b75aa93133")
+	)
+	(wire
+		(pts
+			(xy 233.68 245.11) (xy 237.49 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cbb8b57-6f8e-4978-8f92-d0b58f55bc6f")
+	)
+	(wire
+		(pts
+			(xy 237.49 245.11) (xy 237.49 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4deff00e-41f0-421e-b744-a0d0d14d64f5")
+	)
+	(wire
+		(pts
+			(xy 237.49 247.65) (xy 237.49 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f84df20-1447-4314-8f85-c26aa196e311")
+	)
+	(wire
+		(pts
+			(xy 90.17 254) (xy 99.06 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51a698be-199c-427f-a2c7-1fbe86d712e3")
+	)
+	(wire
+		(pts
+			(xy 176.53 248.92) (xy 176.53 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52521b82-f72b-474d-8401-70c103bdf40d")
 	)
 	(wire
 		(pts
@@ -4563,16 +4737,6 @@
 			(type default)
 		)
 		(uuid "5489f0d0-04ed-46e0-9ede-a5c092078720")
-	)
-	(wire
-		(pts
-			(xy 207.01 233.68) (xy 217.17 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55493cbc-29ea-4f55-b518-b2b0f6a4d167")
 	)
 	(wire
 		(pts
@@ -4606,6 +4770,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 269.24) (xy 176.53 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59209ffb-d53c-4217-a04a-7d3cdc1d8e1e")
+	)
+	(wire
+		(pts
 			(xy 91.44 78.74) (xy 104.14 78.74)
 		)
 		(stroke
@@ -4613,16 +4787,6 @@
 			(type default)
 		)
 		(uuid "5a6287c2-65e3-4344-a734-d25c9a450bff")
-	)
-	(wire
-		(pts
-			(xy 95.25 231.14) (xy 105.41 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ad90290-0ecc-4d30-8164-003a759bc9f7")
 	)
 	(wire
 		(pts
@@ -4636,23 +4800,63 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 232.41) (xy 161.29 233.68)
+			(xy 165.1 232.41) (xy 175.26 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6226437f-7803-4e12-89e2-4069898c8a1b")
+		(uuid "5d6ba52d-d5ee-41bd-bfbd-64b3e7aceb10")
 	)
 	(wire
 		(pts
-			(xy 90.17 252.73) (xy 90.17 256.54)
+			(xy 214.63 237.49) (xy 218.44 237.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "64178f94-9a07-46e0-af16-99c59b097177")
+		(uuid "5ed6b2a3-b654-4236-bc9f-b1da75375c93")
+	)
+	(wire
+		(pts
+			(xy 92.71 236.22) (xy 97.79 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fba2b27-1e11-49d1-b957-07262a336972")
+	)
+	(wire
+		(pts
+			(xy 97.79 236.22) (xy 97.79 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "631bbbde-1084-43ef-b9de-12ab13c4bb45")
+	)
+	(wire
+		(pts
+			(xy 237.49 250.19) (xy 237.49 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "634ec8c8-b4a4-488c-abca-bc141ae2d795")
+	)
+	(wire
+		(pts
+			(xy 115.57 243.84) (xy 115.57 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a658fa-c227-498d-9a43-64ab24dd6260")
 	)
 	(wire
 		(pts
@@ -4663,6 +4867,16 @@
 			(type default)
 		)
 		(uuid "6489ecc6-5adc-4772-969d-7bd1baf2bfa6")
+	)
+	(wire
+		(pts
+			(xy 153.67 236.22) (xy 160.02 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "660b03c6-6410-4f8c-b43e-7036294ff973")
 	)
 	(wire
 		(pts
@@ -4686,26 +4900,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 255.27) (xy 201.93 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bdbecdb-516c-455c-a025-f3154e4cc391")
-	)
-	(wire
-		(pts
-			(xy 218.44 241.3) (xy 222.25 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c799609-be0b-447e-a591-d84a29ae7de5")
-	)
-	(wire
-		(pts
 			(xy 113.03 82.55) (xy 113.03 76.2)
 		)
 		(stroke
@@ -4726,13 +4920,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 247.65) (xy 106.68 245.11)
+			(xy 160.02 232.41) (xy 165.1 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "703053e7-fc9e-48c0-9f44-67dc083d65ed")
+		(uuid "6f9ef019-5476-4c3c-addb-ffd133efbc4d")
 	)
 	(wire
 		(pts
@@ -4743,6 +4937,16 @@
 			(type default)
 		)
 		(uuid "713db427-37b3-4092-89af-fbd75483cbe7")
+	)
+	(wire
+		(pts
+			(xy 180.34 232.41) (xy 190.5 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71a46aed-70d8-47b2-8465-c97e2403e241")
 	)
 	(wire
 		(pts
@@ -4796,13 +5000,23 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 264.16) (xy 90.17 267.97)
+			(xy 160.02 265.43) (xy 160.02 269.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7b205d4b-22eb-41b3-9d03-52a456ffa67d")
+		(uuid "79d5b339-dbb3-4831-a8f9-e49f81ce7c2a")
+	)
+	(wire
+		(pts
+			(xy 237.49 241.3) (xy 241.3 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c3f0b58-d8f4-403a-a273-8f88f0ecb546")
 	)
 	(wire
 		(pts
@@ -4813,16 +5027,6 @@
 			(type default)
 		)
 		(uuid "7d6a2c7b-8c49-4481-a1d4-ce246bf819f5")
-	)
-	(wire
-		(pts
-			(xy 201.93 266.7) (xy 201.93 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84c5f258-e711-4058-84cf-335e4af0b13b")
 	)
 	(wire
 		(pts
@@ -4876,16 +5080,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 245.11) (xy 162.56 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e61f02f-522e-414d-87fc-d50efa59ca46")
-	)
-	(wire
-		(pts
 			(xy 81.28 147.32) (xy 93.98 147.32)
 		)
 		(stroke
@@ -4896,33 +5090,33 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 238.76) (xy 110.49 238.76)
+			(xy 241.3 241.3) (xy 247.65 241.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "93ffd7e7-73b4-4d24-9258-af5535b54e24")
+		(uuid "90e8fbe0-bad4-477c-997d-3fe3068b5b52")
 	)
 	(wire
 		(pts
-			(xy 162.56 241.3) (xy 166.37 241.3)
+			(xy 180.34 240.03) (xy 186.69 240.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "975795b3-9a9d-4534-b522-6fb7255075ca")
+		(uuid "966f18cb-6519-4364-88dd-6120a7def747")
 	)
 	(wire
 		(pts
-			(xy 218.44 250.19) (xy 218.44 247.65)
+			(xy 238.76 247.65) (xy 237.49 247.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9af49aa9-b3ed-4655-8e4e-0babb044e801")
+		(uuid "96aa4e00-7c73-43bc-809d-31c3eda894b5")
 	)
 	(wire
 		(pts
@@ -4933,6 +5127,16 @@
 			(type default)
 		)
 		(uuid "9b892382-5c4d-4632-bec6-4a223c0f9a62")
+	)
+	(wire
+		(pts
+			(xy 220.98 255.27) (xy 229.87 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bace114-d62a-4a73-aff2-de0c333af0be")
 	)
 	(wire
 		(pts
@@ -4966,6 +5170,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 246.38) (xy 176.53 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a24d638a-a09b-452c-a7d9-8f83651f0ea9")
+	)
+	(wire
+		(pts
 			(xy 115.57 121.92) (xy 128.27 121.92)
 		)
 		(stroke
@@ -4973,26 +5187,6 @@
 			(type default)
 		)
 		(uuid "a3a6a1b8-d254-4568-b617-d5921b205a14")
-	)
-	(wire
-		(pts
-			(xy 218.44 260.35) (xy 218.44 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5129ac9-443d-4018-8cd7-bad3c2b94a7e")
-	)
-	(wire
-		(pts
-			(xy 158.75 245.11) (xy 162.56 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5c7808f-9cc1-43fb-8592-7c3cd670980e")
 	)
 	(wire
 		(pts
@@ -5006,16 +5200,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 241.3) (xy 228.6 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6b4212c-66da-4a8f-af7d-5a37d4e5e12e")
-	)
-	(wire
-		(pts
 			(xy 34.29 60.96) (xy 33.02 60.96)
 		)
 		(stroke
@@ -5026,33 +5210,43 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 242.57) (xy 95.25 231.14)
+			(xy 218.44 237.49) (xy 218.44 233.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a88156bc-acdf-4ff5-b771-176424d1b639")
+		(uuid "a8337328-d0ce-4a94-aecc-fcd7f65ad2ce")
 	)
 	(wire
 		(pts
-			(xy 166.37 241.3) (xy 172.72 241.3)
+			(xy 214.63 234.95) (xy 214.63 237.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a9c9eb3e-8577-4000-945d-b990cc8a3c35")
+		(uuid "a893b010-6b30-4210-952e-c5d3ae1c918f")
 	)
 	(wire
 		(pts
-			(xy 107.95 245.11) (xy 106.68 245.11)
+			(xy 26.67 233.68) (xy 31.75 233.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ad54f63f-834a-4f28-9e6a-68679f331649")
+		(uuid "a8cec3ba-2fe0-41c5-bbb5-d294327d9e05")
+	)
+	(wire
+		(pts
+			(xy 115.57 259.08) (xy 115.57 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab758634-df12-4466-8b98-41e38545d743")
 	)
 	(wire
 		(pts
@@ -5063,6 +5257,16 @@
 			(type default)
 		)
 		(uuid "adf49300-f1e0-4f63-859f-f1b6bb5d5026")
+	)
+	(wire
+		(pts
+			(xy 97.79 232.41) (xy 104.14 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af7c983f-61af-4fe4-b2d1-9782713882af")
 	)
 	(wire
 		(pts
@@ -5083,26 +5287,6 @@
 			(type default)
 		)
 		(uuid "b2127291-665b-405a-98e7-c0dc5fc3491b")
-	)
-	(wire
-		(pts
-			(xy 218.44 245.11) (xy 218.44 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b561d2e8-ac0d-4ad4-821c-105e771f551a")
-	)
-	(wire
-		(pts
-			(xy 81.28 252.73) (xy 90.17 252.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b67b8f99-edcd-4092-8b70-cededb9c03d3")
 	)
 	(wire
 		(pts
@@ -5156,16 +5340,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 270.51) (xy 162.56 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb38ff4a-55a8-4df4-8699-961413ca4ffd")
-	)
-	(wire
-		(pts
 			(xy 207.01 38.1) (xy 209.55 38.1)
 		)
 		(stroke
@@ -5186,13 +5360,13 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 247.65) (xy 162.56 247.65)
+			(xy 115.57 269.24) (xy 121.92 269.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be4da400-91ce-432e-9326-1a3af5652f7d")
+		(uuid "bd5d21f8-5b61-4a48-b30a-48fb4e6a5930")
 	)
 	(wire
 		(pts
@@ -5206,13 +5380,23 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 270.51) (xy 168.91 270.51)
+			(xy 119.38 232.41) (xy 129.54 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c04427bd-e7c5-4f08-8f1f-e94ee3d1f62d")
+		(uuid "c10a39f3-e6d5-4c47-a330-c12d07ebf461")
+	)
+	(wire
+		(pts
+			(xy 241.3 233.68) (xy 251.46 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2e4b6bd-9ccf-4c9f-9be3-5848d471d3c4")
 	)
 	(wire
 		(pts
@@ -5226,23 +5410,23 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 233.68) (xy 176.53 233.68)
+			(xy 236.22 233.68) (xy 241.3 233.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c672bd74-1db7-43d0-8a73-5d2815354267")
+		(uuid "c76f7b3b-3155-4614-9702-e50a4090c373")
 	)
 	(wire
 		(pts
-			(xy 214.63 245.11) (xy 218.44 245.11)
+			(xy 151.13 254) (xy 160.02 254)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c6e54379-458e-4c6d-ab52-edb08cbfb2c8")
+		(uuid "c9bc1fa8-8b6c-40e8-abc3-a2a41fd48c97")
 	)
 	(wire
 		(pts
@@ -5256,6 +5440,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 232.41) (xy 104.14 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacd2290-1ad0-4290-b51c-2aeccec74683")
+	)
+	(wire
+		(pts
 			(xy 118.11 35.56) (xy 118.11 39.37)
 		)
 		(stroke
@@ -5263,6 +5457,36 @@
 			(type default)
 		)
 		(uuid "cc542cfc-f373-4126-8d02-2e76687db3df")
+	)
+	(wire
+		(pts
+			(xy 115.57 246.38) (xy 115.57 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ced2741e-a596-4c50-9102-690a8da165e5")
+	)
+	(wire
+		(pts
+			(xy 226.06 245.11) (xy 226.06 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfcca0a4-aab7-41e3-b0e5-8963283c1055")
+	)
+	(wire
+		(pts
+			(xy 104.14 232.41) (xy 114.3 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfd001cb-4cb1-44cf-8e36-f9a78a59ec89")
 	)
 	(wire
 		(pts
@@ -5286,13 +5510,13 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 270.51) (xy 224.79 270.51)
+			(xy 176.53 243.84) (xy 176.53 240.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d22f1d77-46a3-402b-842f-97bc5201fef4")
+		(uuid "d08b0836-d729-4917-8463-06ea775a105d")
 	)
 	(wire
 		(pts
@@ -5326,23 +5550,33 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 245.11) (xy 106.68 242.57)
+			(xy 177.8 246.38) (xy 176.53 246.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d93d7e37-3559-4c2f-a33e-73cff1d3dab1")
+		(uuid "d6fe0294-423e-4a16-996a-661191a23f39")
 	)
 	(wire
 		(pts
-			(xy 222.25 233.68) (xy 232.41 233.68)
+			(xy 237.49 260.35) (xy 237.49 270.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "da2c0016-2a9f-47f5-9db2-2e8d18ac5ce8")
+		(uuid "d9f66a6c-5244-441b-9762-0709e3a2bf1a")
+	)
+	(wire
+		(pts
+			(xy 237.49 270.51) (xy 243.84 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da947509-9707-4504-a391-bf636592738f")
 	)
 	(wire
 		(pts
@@ -5356,33 +5590,13 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 257.81) (xy 106.68 267.97)
+			(xy 116.84 246.38) (xy 115.57 246.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dd7968d7-9648-497d-85e7-4b87307ebc25")
-	)
-	(wire
-		(pts
-			(xy 161.29 233.68) (xy 166.37 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dde24b2e-d6ab-43e4-86b4-41485585f23e")
-	)
-	(wire
-		(pts
-			(xy 151.13 245.11) (xy 151.13 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df0382ea-230d-40de-bf80-5c572c1921cb")
+		(uuid "db3c8a8e-9ee3-40f3-b7de-189b60eb01f1")
 	)
 	(wire
 		(pts
@@ -5406,6 +5620,46 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 269.24) (xy 115.57 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e283a438-8277-4bda-9028-0cd2dd9b9514")
+	)
+	(wire
+		(pts
+			(xy 226.06 233.68) (xy 236.22 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3337598-999b-477c-9dab-4aaf8254a49c")
+	)
+	(wire
+		(pts
+			(xy 153.67 233.68) (xy 153.67 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3cb4d9f-2725-47ef-ba10-25f29b8a0bda")
+	)
+	(wire
+		(pts
+			(xy 92.71 233.68) (xy 92.71 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4eb1ba2-d444-460f-b936-ed33bce9ae9d")
+	)
+	(wire
+		(pts
 			(xy 53.34 237.49) (xy 59.69 237.49)
 		)
 		(stroke
@@ -5426,16 +5680,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 232.41) (xy 83.82 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7652e76-e612-4c64-9798-279ec1d4f681")
-	)
-	(wire
-		(pts
 			(xy 207.01 38.1) (xy 207.01 40.64)
 		)
 		(stroke
@@ -5443,6 +5687,16 @@
 			(type default)
 		)
 		(uuid "e869214d-02a8-439f-94ef-6f8e358ad6a3")
+	)
+	(wire
+		(pts
+			(xy 160.02 254) (xy 160.02 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e983c39a-e457-4a9c-9e38-d6c0ad81a4a4")
 	)
 	(wire
 		(pts
@@ -5476,6 +5730,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 240.03) (xy 125.73 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec6917b9-2d13-4dfb-a4ca-c14070e55c10")
+	)
+	(wire
+		(pts
 			(xy 102.87 121.92) (xy 115.57 121.92)
 		)
 		(stroke
@@ -5486,33 +5750,23 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 242.57) (xy 106.68 238.76)
+			(xy 172.72 243.84) (xy 176.53 243.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f11ed097-a439-48e6-ace5-dc7e91909bcc")
+		(uuid "f08ad140-b15c-459b-8fe3-d88f4b981a69")
 	)
 	(wire
 		(pts
-			(xy 102.87 242.57) (xy 106.68 242.57)
+			(xy 220.98 266.7) (xy 220.98 270.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f1441bb6-3aa3-4fd2-8245-584ca69ca74c")
-	)
-	(wire
-		(pts
-			(xy 217.17 232.41) (xy 217.17 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2e771f4-0abf-4d48-9878-2362e4a5d5f4")
+		(uuid "f363bec3-a52d-4319-b82f-9945d250668d")
 	)
 	(wire
 		(pts
@@ -5536,26 +5790,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 247.65) (xy 218.44 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3a040db-76fd-491b-bec4-cf40f502ac3f")
-	)
-	(wire
-		(pts
-			(xy 218.44 247.65) (xy 218.44 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4a82e3d-35c5-4fa6-a7f0-5ebba4b2f2b0")
-	)
-	(wire
-		(pts
 			(xy 326.39 39.37) (xy 326.39 43.18)
 		)
 		(stroke
@@ -5563,16 +5797,6 @@
 			(type default)
 		)
 		(uuid "f5215d33-2abf-40b3-824a-c4700417a531")
-	)
-	(wire
-		(pts
-			(xy 146.05 255.27) (xy 154.94 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9656356-6cef-4326-9007-3ff629e087d6")
 	)
 	(wire
 		(pts
@@ -5586,13 +5810,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 234.95) (xy 139.7 237.49)
+			(xy 237.49 273.05) (xy 237.49 270.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fadf9666-8cf3-4c77-a1e9-3cf8b6de2060")
+		(uuid "fbbfa278-7239-415f-bcdc-f8a2215f650f")
 	)
 	(wire
 		(pts
@@ -5603,46 +5827,6 @@
 			(type default)
 		)
 		(uuid "fbc4c02e-6ef3-410e-8a2b-df2da0d4f87c")
-	)
-	(wire
-		(pts
-			(xy 90.17 252.73) (xy 99.06 252.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbf36cc7-f52c-42d5-bf81-829d86a5b2d0")
-	)
-	(wire
-		(pts
-			(xy 110.49 238.76) (xy 116.84 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc126c93-a687-4355-b89d-d56101d56e2f")
-	)
-	(wire
-		(pts
-			(xy 162.56 250.19) (xy 162.56 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe3c5d4d-b1a8-4ae6-85f9-06fb711deba0")
-	)
-	(wire
-		(pts
-			(xy 162.56 247.65) (xy 162.56 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fef87260-fbe5-4e5b-a99b-a00769fb5c12")
 	)
 	(label "LED3"
 		(at 60.96 81.28 180)
@@ -5784,6 +5968,16 @@
 		)
 		(uuid "28201a0f-fe9d-4770-a85c-a2bf85e804b8")
 	)
+	(label "M2_"
+		(at 90.17 254 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "299fd711-296d-433a-a7b6-c9289e4b96bd")
+	)
 	(label "LED1"
 		(at 248.92 128.27 180)
 		(effects
@@ -5894,6 +6088,16 @@
 		)
 		(uuid "34b17de7-2e52-467d-a6a6-f09ce689b4d9")
 	)
+	(label "M4_"
+		(at 212.09 255.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35b28fd6-b764-41b0-a2b8-a896931ef9d8")
+	)
 	(label "IO35"
 		(at 165.1 139.7 180)
 		(effects
@@ -5933,16 +6137,6 @@
 			(justify left bottom)
 		)
 		(uuid "481e14f1-d5ff-4c10-a363-168701d18470")
-	)
-	(label "M1_"
-		(at 193.04 255.27 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "487d808b-6624-4c01-bf7d-2f29810bf758")
 	)
 	(label "USB_D+"
 		(at 248.92 140.97 180)
@@ -6034,26 +6228,6 @@
 		)
 		(uuid "5b046f04-d47c-4de2-a242-4f606f1dbffa")
 	)
-	(label "M1_"
-		(at 137.16 255.27 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5b6f83d6-2994-4e21-bd34-45629565e28b")
-	)
-	(label "BAT+M"
-		(at 83.82 234.95 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5bda5399-2583-401d-8435-cab0edd81f9e")
-	)
 	(label "LED3"
 		(at 248.92 133.35 180)
 		(effects
@@ -6063,16 +6237,6 @@
 			(justify right bottom)
 		)
 		(uuid "6199e1a0-2192-4ff3-ad3e-2e76b197a365")
-	)
-	(label "M1_"
-		(at 81.28 252.73 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6dae131b-8d9b-44f8-9c32-b0f29e66d7c6")
 	)
 	(label "IO41"
 		(at 91.44 71.12 0)
@@ -6214,16 +6378,6 @@
 		)
 		(uuid "a15f780c-3abd-41e3-a916-20c0e494815f")
 	)
-	(label "BAT+M"
-		(at 217.17 232.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a271ad84-075b-4bdd-8368-93639bc1011f")
-	)
 	(label "USB_D+"
 		(at 91.44 50.8 0)
 		(effects
@@ -6264,26 +6418,6 @@
 		)
 		(uuid "a989a298-507a-4487-b8d1-116dba0c1a7d")
 	)
-	(label "BAT+M"
-		(at 161.29 232.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ade900cc-372d-4075-8c80-8923fa52c199")
-	)
-	(label "BAT+M"
-		(at 48.26 228.6 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b0b99fd4-f8ed-4085-9f17-aeeebc7b7fff")
-	)
 	(label "IO42"
 		(at 248.92 153.67 180)
 		(effects
@@ -6303,16 +6437,6 @@
 			(justify right bottom)
 		)
 		(uuid "b7909e29-f6ac-46f1-be2c-f7e2e85251d5")
-	)
-	(label "BAT+M"
-		(at 195.58 237.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bd535367-9713-4411-aff8-e6fab1b7f6c0")
 	)
 	(label "USB_D-"
 		(at 91.44 48.26 0)
@@ -6384,16 +6508,6 @@
 		)
 		(uuid "cd912b6d-6316-46e8-89b3-0deb489bc287")
 	)
-	(label "BAT+M"
-		(at 26.67 233.68 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ce22654b-c547-452c-9956-7bceb1847e6a")
-	)
 	(label "SDA"
 		(at 157.48 40.64 180)
 		(effects
@@ -6424,16 +6538,6 @@
 		)
 		(uuid "da0ea225-85a4-47df-a12e-309a832f3a28")
 	)
-	(label "BAT+M"
-		(at 105.41 229.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "db89e302-0352-44f4-ad23-fa49742dc1f5")
-	)
 	(label "SDA"
 		(at 60.96 53.34 180)
 		(effects
@@ -6443,16 +6547,6 @@
 			(justify right bottom)
 		)
 		(uuid "df0ebf57-33dd-40f4-a942-12dc1b9abc40")
-	)
-	(label "BAT+M"
-		(at 139.7 237.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "df20d663-3b07-4332-abee-f6a7641e21e9")
 	)
 	(label "IO38"
 		(at 165.1 147.32 180)
@@ -6524,6 +6618,16 @@
 		)
 		(uuid "f5edd603-b352-4ea4-8158-57d81053b9ba")
 	)
+	(label "M3_"
+		(at 151.13 254 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f90b3ea7-ef33-4b94-b46c-e6ca3d401d8d")
+	)
 	(label "BAT+"
 		(at 204.47 38.1 180)
 		(effects
@@ -6588,37 +6692,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 163.83 247.65 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "137f769d-b3c9-436f-88ae-fafcdb3c7a93")
-		(property "Netclass" "power"
-			(at 166.37 246.9515 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -12.7 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
 		(at 50.8 243.84 270)
 		(fields_autoplaced yes)
 		(effects
@@ -6639,6 +6712,130 @@
 		)
 		(property "Component Class" ""
 			(at -125.73 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 123.19 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "41b5d4e2-1410-4b1f-ae98-0614b588f546")
+		(property "Netclass" "power"
+			(at 123.8885 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -53.34 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 176.53 264.16 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "43beb865-0a15-4bc9-8c81-589dbdd6a420")
+		(property "Netclass" "power"
+			(at 179.07 263.4615 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 0 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 115.57 264.16 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "470fdf8e-2bd5-4e9c-ad6d-555110cd2f7b")
+		(property "Netclass" "power"
+			(at 118.11 263.4615 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -60.96 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 184.15 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "49972a35-5849-4dab-a71d-427e204204f0")
+		(property "Netclass" "power"
+			(at 184.8485 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 7.62 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6681,17 +6878,17 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 226.06 233.68 0)
+		(at 116.84 246.38 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "7a912400-40b2-49ac-8bca-5c72ca919cf0")
+		(uuid "66848f71-ae59-40c7-a4dc-78ec399802c2")
 		(property "Netclass" "power"
-			(at 226.7585 231.14 0)
+			(at 119.38 245.6815 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6700,7 +6897,100 @@
 			)
 		)
 		(property "Component Class" ""
-			(at 49.53 199.39 0)
+			(at -59.69 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 238.76 247.65 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "70e9e45c-6893-4fce-b840-e0c39a49787e")
+		(property "Netclass" "power"
+			(at 241.3 246.9515 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 62.23 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 177.8 246.38 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7ab89ffb-8d81-427b-93cb-eaaa1e6825e2")
+		(property "Netclass" "power"
+			(at 180.34 245.6815 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 1.27 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 237.49 266.7 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "84d3962d-77a2-44c0-bb5e-c175bb6dce8f")
+		(property "Netclass" "power"
+			(at 240.03 266.0015 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 60.96 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6743,7 +7033,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 114.3 231.14 0)
+		(at 245.11 233.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6751,9 +7041,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "9630c117-4da0-4b77-9ce5-6019914e2839")
+		(uuid "e417daf3-f241-4d9d-8388-1d941ff28238")
 		(property "Netclass" "power"
-			(at 114.9985 228.6 0)
+			(at 245.8085 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6762,100 +7052,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -62.23 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 107.95 245.11 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "96af9032-04dd-4fa8-9b7c-b6984758fd7a")
-		(property "Netclass" "power"
-			(at 110.49 244.4115 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -68.58 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 170.18 233.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "97d4e8a6-218e-4c6b-a00c-c77f2da189de")
-		(property "Netclass" "power"
-			(at 170.8785 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -6.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 219.71 247.65 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e5957deb-11c1-464b-b1c9-23305768f696")
-		(property "Netclass" "power"
-			(at 222.25 246.9515 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at 43.18 213.36 0)
+			(at 68.58 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6887,6 +7084,37 @@
 		)
 		(property "Component Class" ""
 			(at -119.38 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 49.53 260.35 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f0d291db-21b2-40df-b6f7-3f851710713b")
+		(property "Netclass" "power"
+			(at 52.07 259.6515 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -127 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7172,6 +7400,110 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SS34")
+		(at 229.87 245.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05b1c1f5-e7ad-4f85-b55c-e0049858d92c")
+		(property "Reference" "D4"
+			(at 229.5525 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SS34"
+			(at 229.5525 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 229.87 249.555 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+			(at 229.87 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 3A Schottky Diode, SMA"
+			(at 229.87 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C8678"
+			(at 229.87 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link " "https://www.lcsc.com/product-detail/C8678.html?s_z=n_C8678"
+			(at 229.87 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part#" "SS34"
+			(at 229.87 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMA(DO-214AC)"
+			(at 229.87 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb17050a-8488-49ce-b89c-757a7959b54a")
+		)
+		(pin "2"
+			(uuid "51eb9ae1-5ae3-4dc9-a79e-69b06b44f32e")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 231.14 33.02 0)
 		(unit 1)
@@ -7395,120 +7727,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 146.05 262.89 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "0ba8d6fc-0b64-4649-9faa-03ddfe967960")
-		(property "Reference" "R6"
-			(at 148.082 262.636 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 146.05 264.668 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 144.272 262.89 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" " C25804"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25804.html"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part #" "0603WAF1002T5E"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 146.05 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c6c353bf-7797-4b17-994b-d4488e1529d3")
-		)
-		(pin "1"
-			(uuid "010c210e-b474-4c6e-860e-930136e89c26")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 93.98 147.32 180)
 		(unit 1)
@@ -7576,200 +7794,12 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 137.16 255.27 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e805349-641d-45dd-8f0f-e2e60ebf568a")
-		(property "Reference" "TP8"
-			(at 139.7 257.3019 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D0"
-			(at 139.7 259.8419 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 132.08 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 137.16 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b4be40dd-64d7-4601-b806-8b9a46e74619")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:AO3400A")
-		(at 160.02 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ee54920-a120-4ad3-b425-16fc940cee9b")
-		(property "Reference" "Q3"
-			(at 166.37 253.9999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AO3400A"
-			(at 166.37 256.5399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 165.1 257.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 165.1 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
-			(at 160.02 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C20917"
-			(at 160.02 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C20917.html?s_z=n_AO3400A"
-			(at 160.02 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part #" "AO3400A"
-			(at 160.02 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "AOS"
-			(at 160.02 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-3L"
-			(at 160.02 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "06113e57-7cbe-47d8-9e31-a5c7fb94819c")
-		)
-		(pin "2"
-			(uuid "13401434-68a7-465c-9430-2f66c4231685")
-		)
-		(pin "1"
-			(uuid "7c48b2e4-ee9e-4592-b869-fb9cf50391d2")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_FET:AO3400A")
 		(at 46.99 251.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "133d9d4a-857a-495c-bcdd-d6caa2fda38f")
@@ -8132,42 +8162,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:SS34")
-		(at 154.94 245.11 0)
+		(lib_id "Connector:TestPoint")
+		(at 151.13 254 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1e0aa9df-2b1a-4d1e-9083-692278ad061f")
-		(property "Reference" "D3"
-			(at 154.6225 238.76 0)
+		(uuid "1584f1db-e057-4782-9028-29fd6c7afc17")
+		(property "Reference" "TP8"
+			(at 153.67 256.0319 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "SS34"
-			(at 154.6225 241.3 0)
+		(property "Value" "D0"
+			(at 153.67 258.5719 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 154.94 249.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
-			(at 154.94 245.11 0)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 146.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8175,8 +8198,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 154.94 245.11 0)
+		(property "Datasheet" "~"
+			(at 146.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8184,35 +8207,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part#" "C8678"
-			(at 154.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link " "https://www.lcsc.com/product-detail/C8678.html?s_z=n_C8678"
-			(at 154.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part#" "SS34"
-			(at 154.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "SMA(DO-214AC)"
-			(at 154.94 245.11 0)
+		(property "Description" "test point"
+			(at 151.13 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8221,15 +8217,144 @@
 			)
 		)
 		(pin "1"
-			(uuid "3873a313-ae04-4837-8f53-7c974a60d97a")
-		)
-		(pin "2"
-			(uuid "0cb29916-19a1-485d-8c5a-648a9fcc92a7")
+			(uuid "483ad4b9-e84d-42d0-ac9f-e49a5a500652")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "D3")
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 186.69 240.03 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17a44835-dde2-4bfc-8233-b5cb788c97e0")
+		(property "Reference" "TP13"
+			(at 191.77 241.046 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 241.046 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 186.69 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 186.69 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e40d97f-70e0-46d0-b2f5-2ae0bd2879e6")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 182.88 269.24 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17ca353e-b208-441d-a1df-6e7de64fb72a")
+		(property "Reference" "TP12"
+			(at 187.96 270.256 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 188.976 272.542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 182.88 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 182.88 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 182.88 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7122dbc-68ee-448a-883d-68171e4217fd")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -8241,7 +8366,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "2aa972a7-176b-474f-bde8-6cbd1a9106b6")
 		(property "Reference" "TP11"
@@ -8307,7 +8432,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "2e59cdfe-2718-4c2a-a72d-223929744650")
 		(property "Reference" "TP5"
@@ -8427,6 +8552,241 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:AO3400A")
+		(at 234.95 255.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33a78ef2-0c79-40e0-84ca-5a1cea9d65aa")
+		(property "Reference" "Q4"
+			(at 241.3 253.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AO3400A"
+			(at 241.3 256.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 240.03 257.175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+			(at 240.03 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 234.95 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C20917"
+			(at 234.95 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C20917.html?s_z=n_AO3400A"
+			(at 234.95 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part #" "AO3400A"
+			(at 234.95 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 234.95 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-3L"
+			(at 234.95 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "51aa2dc5-dee0-4e9a-8166-387e6307e5ce")
+		)
+		(pin "2"
+			(uuid "5a6c594c-3a61-47dc-a920-45cddcf55571")
+		)
+		(pin "1"
+			(uuid "3f80b6c9-ab2b-4d07-b147-091901cdf5ee")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 99.06 261.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "36de224b-fd48-4c50-9730-8a15fb7d4838")
+		(property "Reference" "R5"
+			(at 101.092 261.366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 99.06 263.398 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 97.282 261.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C25804"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25804.html"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part #" "0603WAF1002T5E"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 99.06 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "be32ebec-6314-4837-974e-4dc3b2dc8895")
+		)
+		(pin "1"
+			(uuid "de7ddad1-d9f4-4a28-a3e2-8f980c11f401")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -8576,6 +8936,73 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "TP21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 212.09 255.27 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a858583-eaab-4339-9ecb-fea558f9178d")
+		(property "Reference" "TP15"
+			(at 214.63 257.3019 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D0"
+			(at 214.63 259.8419 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 207.01 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 212.09 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24d0a72b-7c67-484d-b62e-f58c13e28c40")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -8942,140 +9369,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 195.58 234.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3dffe4cb-a9e2-48c4-a6a4-6e8b4ae7e042")
-		(property "Reference" "TP16"
-			(at 198.12 230.3779 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Bat+"
-			(at 198.12 232.9179 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 200.66 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 200.66 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 195.58 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "630bdade-7b11-4b6d-b8cb-c852876d29eb")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 193.04 255.27 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3ea119be-50f3-41de-828a-005392f9ee68")
-		(property "Reference" "TP15"
-			(at 195.58 257.3019 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D0"
-			(at 195.58 259.8419 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 187.96 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 187.96 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 193.04 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70715505-e4da-45ce-8b7b-7810543b185e")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 113.03 91.44 0)
 		(unit 1)
@@ -9342,72 +9635,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 218.44 270.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "42a010cb-c408-47fc-8ad7-63ac6d4ae0a4")
-		(property "Reference" "#PWR013"
-			(at 218.44 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 218.44 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 218.44 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 218.44 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 218.44 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dcb71acd-cd3e-4a7f-9e49-2ee0be153c17")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x11")
 		(at 170.18 142.24 0)
 		(unit 1)
@@ -9505,6 +9732,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 129.54 232.41 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48c4cbff-14e8-4142-ab09-0cb9200c8c06")
+		(property "Reference" "TP7"
+			(at 134.62 231.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Bat+"
+			(at 134.62 233.6799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 129.54 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 129.54 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e731c85f-da37-47b2-8392-8a3ba2d7879c")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 34.29 82.55 0)
 		(unit 1)
@@ -9571,15 +9865,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 228.6 241.3 270)
+		(at 243.84 270.51 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(uuid "4c34f1a2-2ce2-49b1-9d80-12c2bc396a8a")
-		(property "Reference" "TP31"
-			(at 233.68 242.316 90)
+		(uuid "50477774-3736-4cae-9463-bdc3ee74b6f8")
+		(property "Reference" "TP17"
+			(at 248.92 271.526 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9588,7 +9882,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 237.49 242.316 90)
+			(at 252.73 271.526 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9597,7 +9891,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 228.6 246.38 0)
+			(at 243.84 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9606,7 +9900,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 228.6 246.38 0)
+			(at 243.84 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9615,7 +9909,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 228.6 241.3 0)
+			(at 243.84 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9624,12 +9918,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "302e99ed-d37c-4397-ac9e-dc205677feb2")
+			(uuid "4a2a58b9-b902-40bd-9ea5-ce2f9c0c0baf")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP31")
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -9641,7 +9935,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5571e05d-1f91-458e-a1a0-4fd752da3b38")
@@ -9837,72 +10131,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 224.79 270.51 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "5926d7da-3cff-4d41-88b0-c1c140b79084")
-		(property "Reference" "TP17"
-			(at 229.87 271.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 233.68 271.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 224.79 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 224.79 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 224.79 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "94e198d6-de14-475c-973b-9dece2ab79a0")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 217.17 62.23 0)
 		(unit 1)
@@ -9978,7 +10206,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60b5b0ef-3ae1-4fde-a2c0-8f15489a3eae")
@@ -10034,72 +10262,6 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "TP9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 162.56 270.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6b132fe0-6f63-4155-bdb6-a42ec83f92d9")
-		(property "Reference" "#PWR012"
-			(at 162.56 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 162.56 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 162.56 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 162.56 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8156edf0-7c64-4302-b040-9c2228ea51c4")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10172,44 +10334,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 139.7 234.95 0)
+		(lib_id "Diode:SS34")
+		(at 107.95 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "70dc6d63-f5bb-4a21-8fc5-c0cc2f6cf704")
-		(property "Reference" "TP10"
-			(at 142.24 230.3779 0)
+		(uuid "72a44549-054f-4575-ae7f-086eb21460ab")
+		(property "Reference" "D2"
+			(at 107.6325 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "Bat+"
-			(at 142.24 232.9179 0)
+		(property "Value" "SS34"
+			(at 107.6325 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 144.78 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 144.78 234.95 0)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 107.95 248.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10217,8 +10368,53 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
-			(at 139.7 234.95 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+			(at 107.95 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 3A Schottky Diode, SMA"
+			(at 107.95 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C8678"
+			(at 107.95 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link " "https://www.lcsc.com/product-detail/C8678.html?s_z=n_C8678"
+			(at 107.95 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part#" "SS34"
+			(at 107.95 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMA(DO-214AC)"
+			(at 107.95 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10227,12 +10423,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "b75e8f5a-c7a0-482f-8db4-355eb8fd4948")
+			(uuid "58a6008c-bdc7-46e6-9376-a8879a50f6ae")
+		)
+		(pin "2"
+			(uuid "8c187ed8-d643-4dbd-b94d-a47343a44ad5")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP10")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -10244,7 +10443,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "75427447-7e92-4d25-a611-531f8f82464b")
 		(property "Reference" "R4"
@@ -10353,139 +10552,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 81.28 252.73 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "77aae8a3-da99-4084-b88a-e248325daab4")
-		(property "Reference" "TP2"
-			(at 83.82 254.7619 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D0"
-			(at 83.82 257.3019 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 76.2 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 81.28 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "48b70a3f-8ae9-4644-bcc6-53333a1c6246")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 116.84 238.76 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "78461820-91e2-48fe-8f62-61037e2900f0")
-		(property "Reference" "TP6"
-			(at 121.92 239.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 125.73 239.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 116.84 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 116.84 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e87eba9-6ce4-4613-8cf7-df67ad298afd")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 33.02 60.96 270)
 		(unit 1)
@@ -10552,17 +10618,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:AO3400A")
-		(at 104.14 252.73 0)
+		(lib_id "Device:R")
+		(at 160.02 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e5e51ae-a316-4641-98b2-6d12590ab743")
-		(property "Reference" "Q2"
-			(at 110.49 251.4599 0)
+		(uuid "80b43725-1c7c-43b5-926d-45a6a1d57f93")
+		(property "Reference" "R6"
+			(at 162.052 261.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10570,8 +10635,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3400A"
-			(at 110.49 253.9999 0)
+		(property "Value" "10k"
+			(at 160.02 263.398 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10579,29 +10644,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 109.22 254.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 109.22 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
-			(at 104.14 252.73 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 158.242 261.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10609,8 +10653,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C20917"
-			(at 104.14 252.73 0)
+		(property "Datasheet" "~"
+			(at 160.02 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10618,8 +10662,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C20917.html?s_z=n_AO3400A"
-			(at 104.14 252.73 0)
+		(property "Description" "Resistor"
+			(at 160.02 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10627,8 +10671,8 @@
 				(hide yes)
 			)
 		)
-		(property "MFR.Part #" "AO3400A"
-			(at 104.14 252.73 0)
+		(property "LCSC Part #" " C25804"
+			(at 160.02 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10636,8 +10680,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AOS"
-			(at 104.14 252.73 0)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25804.html"
+			(at 160.02 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10645,8 +10689,8 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "SOT-23-3L"
-			(at 104.14 252.73 0)
+		(property "MFR.Part #" "0603WAF1002T5E"
+			(at 160.02 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10654,19 +10698,34 @@
 				(hide yes)
 			)
 		)
-		(pin "3"
-			(uuid "c80ae33e-67dd-469c-98e6-e5475c8dd734")
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 160.02 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 160.02 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "de8be66c-9792-45d1-b6b9-dbb1472319ad")
+			(uuid "ecc99b0b-4058-4b5d-87e5-1bd36feca167")
 		)
 		(pin "1"
-			(uuid "38481562-3431-448f-a055-f09d62901737")
+			(uuid "b1ab54bc-f954-4221-9382-c3516cdc80b7")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "Q2")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -10781,6 +10840,120 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 180.34 236.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "81ecb66f-1e10-4df3-a625-6c47c075ee23")
+		(property "Reference" "C4"
+			(at 180.848 234.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uf"
+			(at 180.594 238.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 181.3052 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C15849"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link " "https://www.lcsc.com/product-detail/C15849.html?s_z=n_C15849"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part#" "CL10A105KB8NNNC"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 180.34 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "35ee02d3-8fbd-461c-ba80-c359f5d5518e")
+		)
+		(pin "1"
+			(uuid "08114d6e-e526-4787-a77f-0c06dfbe7452")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -10918,197 +11091,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 49.53 266.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8fa3be9c-8f35-45f2-bf4f-f4f6d14f0735")
-		(property "Reference" "#PWR09"
-			(at 49.53 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 49.53 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 49.53 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "782df0cb-a4f1-4159-a1e4-f3031281f27b")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 222.25 237.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "92e3db36-01cd-458b-a759-84907cc71ab3")
-		(property "Reference" "C6"
-			(at 222.758 235.458 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uf"
-			(at 222.504 239.776 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 223.2152 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part#" "C15849"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link " "https://www.lcsc.com/product-detail/C15849.html?s_z=n_C15849"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part#" "CL10A105KB8NNNC"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 222.25 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5594d09a-f78c-47e5-abef-d1167368998f")
-		)
-		(pin "1"
-			(uuid "cb933cca-ff3d-46be-8350-727eb5876b5d")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 232.41 233.68 270)
+		(at 251.46 233.68 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9b6eee76-1134-4440-850d-3bccf35ec86a")
+		(uuid "8f14aa37-0b3e-4d23-abda-52082e6172eb")
 		(property "Reference" "TP32"
-			(at 237.49 232.4099 90)
+			(at 256.54 232.4099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11117,7 +11110,7 @@
 			)
 		)
 		(property "Value" "Bat+"
-			(at 237.49 234.9499 90)
+			(at 256.54 234.9499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11126,7 +11119,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 232.41 238.76 0)
+			(at 251.46 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11135,7 +11128,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 232.41 238.76 0)
+			(at 251.46 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11144,7 +11137,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 232.41 233.68 0)
+			(at 251.46 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11153,12 +11146,146 @@
 			)
 		)
 		(pin "1"
-			(uuid "7f9bac72-69d0-4264-8b32-d89bc84f63fa")
+			(uuid "28a0bedf-cbc2-4569-91c6-f542d8191470")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 90.17 254 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "938de464-4a21-42cb-967b-c9e6d1131e56")
+		(property "Reference" "TP2"
+			(at 92.71 256.0319 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D0"
+			(at 92.71 258.5719 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 85.09 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 90.17 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5eec971b-c6d8-4291-bb7a-95ab7c9571f0")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 153.67 233.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9866b54b-71aa-4b63-b9a9-4c62b75d96a1")
+		(property "Reference" "TP10"
+			(at 156.21 229.1079 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Bat+"
+			(at 156.21 231.6479 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 158.75 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 153.67 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b03d55a1-9e64-4022-ae46-669ea3d90e91")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -11279,244 +11406,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 120.65 231.14 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9d335ebe-8287-4db0-a18f-2658cfe94735")
-		(property "Reference" "TP7"
-			(at 125.73 229.8699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Bat+"
-			(at 125.73 232.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 120.65 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 120.65 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf0b14f5-eb5c-4bd6-932e-57fb6e2b162d")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 176.53 233.68 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ded96cd-0136-47df-b726-bceab6a1423d")
-		(property "Reference" "TP14"
-			(at 181.61 232.4099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Bat+"
-			(at 181.61 234.9499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 176.53 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 176.53 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d38ee74b-a3dd-4284-8b93-386908ec00bd")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SS34")
-		(at 99.06 242.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a0b98ecc-50c0-4d43-8044-660dbc71d886")
-		(property "Reference" "D2"
-			(at 98.7425 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SS34"
-			(at 98.7425 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 99.06 247.015 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
-			(at 99.06 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 99.06 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part#" "C8678"
-			(at 99.06 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link " "https://www.lcsc.com/product-detail/C8678.html?s_z=n_C8678"
-			(at 99.06 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part#" "SS34"
-			(at 99.06 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "SMA(DO-214AC)"
-			(at 99.06 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1833c90b-9465-4bbe-b166-2a53b184a3fa")
-		)
-		(pin "2"
-			(uuid "4ded2afb-c57b-4bd8-87ab-044f5344c898")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 38.1 60.96 90)
 		(unit 1)
@@ -11625,6 +11514,120 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 241.3 237.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a2ec60c3-56c9-4e88-b19c-0e825be42659")
+		(property "Reference" "C6"
+			(at 241.808 235.458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uf"
+			(at 241.554 239.776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 242.2652 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C15849"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link " "https://www.lcsc.com/product-detail/C15849.html?s_z=n_C15849"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part#" "CL10A105KB8NNNC"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 241.3 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fbb99430-2f85-4823-befa-ab8587c38526")
+		)
+		(pin "1"
+			(uuid "1e35b00e-854c-44fa-9159-961bbd47b3ab")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -12105,6 +12108,127 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:AO3400A")
+		(at 113.03 254 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9afe8a8-3e4e-4166-b661-3124cfe06d1e")
+		(property "Reference" "Q2"
+			(at 119.38 252.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AO3400A"
+			(at 119.38 255.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 118.11 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+			(at 118.11 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 113.03 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C20917"
+			(at 113.03 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C20917.html?s_z=n_AO3400A"
+			(at 113.03 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part #" "AO3400A"
+			(at 113.03 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 113.03 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-3L"
+			(at 113.03 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "22a19c6e-22dd-43e3-8324-e9172ce9bbbe")
+		)
+		(pin "2"
+			(uuid "bc0d9b3e-cd03-4c08-985d-9e9d8f8a566f")
+		)
+		(pin "1"
+			(uuid "1f2db9af-ea44-44fa-a22a-93221c56613c")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 205.74 38.1 0)
 		(unit 1)
@@ -12171,116 +12295,12 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:SS34")
-		(at 210.82 245.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "acdaba45-63e2-488a-ae08-2c769a27be6d")
-		(property "Reference" "D4"
-			(at 210.5025 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SS34"
-			(at 210.5025 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 210.82 249.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
-			(at 210.82 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "40V 3A Schottky Diode, SMA"
-			(at 210.82 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part#" "C8678"
-			(at 210.82 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link " "https://www.lcsc.com/product-detail/C8678.html?s_z=n_C8678"
-			(at 210.82 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part#" "SS34"
-			(at 210.82 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "SMA(DO-214AC)"
-			(at 210.82 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "08789864-760e-4265-834b-0a0168a18795")
-		)
-		(pin "2"
-			(uuid "7c07a424-b520-4e5f-b36d-62117274e6e3")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 26.67 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aeb6d5c1-980a-431a-9df7-bd23ba459602")
@@ -12421,6 +12441,127 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:AO3400A")
+		(at 173.99 254 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b131a9bd-e779-41ab-9232-9690abe9a726")
+		(property "Reference" "Q3"
+			(at 180.34 252.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "AO3400A"
+			(at 180.34 255.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.07 255.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
+			(at 179.07 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C20917"
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C20917.html?s_z=n_AO3400A"
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part #" "AO3400A"
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-3L"
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "23e2fdb6-5fc0-4e26-9a64-48fa1b2e86ba")
+		)
+		(pin "2"
+			(uuid "31fec42f-8f02-42f5-b87c-c2da0c96f5cd")
+		)
+		(pin "1"
+			(uuid "21362827-68e0-495b-9db5-503f8f07f4b2")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 269.24 59.69 0)
 		(unit 1)
@@ -12492,15 +12633,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 172.72 241.3 270)
+		(at 247.65 241.3 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(uuid "b7c7636d-baa0-432b-ab28-978e2b4143b2")
-		(property "Reference" "TP13"
-			(at 177.8 242.316 90)
+		(uuid "b799838d-3de4-4036-a458-54d3df44eff1")
+		(property "Reference" "TP31"
+			(at 252.73 242.316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12509,7 +12650,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 181.61 242.316 90)
+			(at 256.54 242.316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12518,7 +12659,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 172.72 246.38 0)
+			(at 247.65 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12527,7 +12668,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 246.38 0)
+			(at 247.65 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12536,7 +12677,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 172.72 241.3 0)
+			(at 247.65 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12545,126 +12686,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "55b28381-e7e4-4bc0-9e37-b6feab1e8400")
+			(uuid "5df117d2-abf0-4b87-9c4f-0d17218a665b")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 166.37 237.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "b8f75af6-8d6f-4240-83f6-ccb2ee74877a")
-		(property "Reference" "C4"
-			(at 166.878 235.458 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uf"
-			(at 166.624 239.776 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 167.3352 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part#" "C15849"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link " "https://www.lcsc.com/product-detail/C15849.html?s_z=n_C15849"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part#" "CL10A105KB8NNNC"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 166.37 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fc889b3b-c3cd-4a7a-9876-bc4baca10df1")
-		)
-		(pin "1"
-			(uuid "e1093ff1-195e-445a-b37f-470e8df3a719")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "C4")
+					(reference "TP31")
 					(unit 1)
 				)
 			)
@@ -12839,6 +12866,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 190.5 232.41 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9ba7ead-5c5a-4081-a2b6-371b74fef80e")
+		(property "Reference" "TP14"
+			(at 195.58 231.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Bat+"
+			(at 195.58 233.6799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 190.5 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 190.5 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b76afcd-ec59-4a00-b911-b18071c01587")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x11")
 		(at 254 140.97 0)
 		(unit 1)
@@ -12936,16 +13030,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 90.17 260.35 0)
+		(lib_id "Connector:TestPoint")
+		(at 125.73 240.03 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(uuid "bc16c387-d110-443a-a93f-b4e04db9794e")
-		(property "Reference" "R5"
-			(at 92.202 260.096 0)
+		(uuid "c1e8d627-be38-434a-b0f4-1b2331ee8f37")
+		(property "Reference" "TP6"
+			(at 130.81 241.046 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12953,8 +13047,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 90.17 262.128 90)
+		(property "Value" "GND"
+			(at 134.62 241.046 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12962,8 +13056,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 88.392 260.35 90)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 125.73 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12972,7 +13066,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 260.35 0)
+			(at 125.73 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12980,70 +13074,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 90.17 260.35 0)
+		(property "Description" "test point"
+			(at 125.73 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "LCSC Part #" " C25804"
-			(at 90.17 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25804.html"
-			(at 90.17 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part #" "0603WAF1002T5E"
-			(at 90.17 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL"
-			(at 90.17 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 90.17 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d830f57d-124d-4ab9-a2ea-cc452af42ee1")
 		)
 		(pin "1"
-			(uuid "40f04ce6-2ef1-4431-8f94-1489b751f558")
+			(uuid "a2f19e0d-3211-4c78-8d2e-3e00249ec14b")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R5")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -13243,7 +13289,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c98e8eb9-ab92-473a-b29b-96c6d04460ef")
@@ -13342,17 +13388,33 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 106.68 267.97 0)
+		(lib_id "Diode:SS34")
+		(at 168.91 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "cfc223f5-5ff5-4502-a980-cd95617194ce")
-		(property "Reference" "#PWR010"
-			(at 106.68 274.32 0)
+		(uuid "d50e6e5e-f440-4964-b59d-03f5d768a16e")
+		(property "Reference" "D3"
+			(at 168.5925 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SS34"
+			(at 168.5925 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 168.91 248.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13360,16 +13422,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 106.68 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 267.97 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+			(at 168.91 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13377,8 +13431,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 106.68 267.97 0)
+		(property "Description" "40V 3A Schottky Diode, SMA"
+			(at 168.91 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13386,8 +13440,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 267.97 0)
+		(property "LCSC Part#" "C8678"
+			(at 168.91 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link " "https://www.lcsc.com/product-detail/C8678.html?s_z=n_C8678"
+			(at 168.91 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part#" "SS34"
+			(at 168.91 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMA(DO-214AC)"
+			(at 168.91 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13396,12 +13477,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "008f4863-4f95-4844-a378-4489d994c8d0")
+			(uuid "9b99df2f-2ab4-4536-9425-576294e9f570")
+		)
+		(pin "2"
+			(uuid "df50ad3a-bbb7-4927-ac16-54b2bfec577b")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "#PWR010")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -13474,120 +13558,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 201.93 262.89 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "d87f6004-d8d6-402e-a3f5-99b1f54e3782")
-		(property "Reference" "R7"
-			(at 203.962 262.636 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 201.93 264.668 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 200.152 262.89 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" " C25804"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25804.html"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part #" "0603WAF1002T5E"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 201.93 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "584c40f1-cfcf-41d9-a376-ea7d141896b3")
-		)
-		(pin "1"
-			(uuid "1a3c4451-77ef-4685-bb73-cb3cf98a777d")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 31.75 41.91 0)
 		(unit 1)
@@ -13647,138 +13617,6 @@
 			(project ""
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 168.91 270.51 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "d8a29f78-ac4e-47fe-bf9b-9283c4c319f1")
-		(property "Reference" "TP12"
-			(at 173.99 271.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 177.8 271.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 168.91 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 168.91 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 168.91 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "771db609-06c8-42bc-8197-54996b066ec6")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 113.03 267.97 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "dc5c23e6-f094-4ca9-b202-7d3eb3e9c3e3")
-		(property "Reference" "TP4"
-			(at 118.11 268.986 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 121.92 268.986 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 113.03 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8d281b73-4f89-4572-bdc8-2fe5b9af3aef")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -14291,12 +14129,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 92.71 233.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e477e006-9d62-46de-a25c-1072e8e8f8db")
+		(property "Reference" "TP3"
+			(at 95.25 229.1079 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Bat+"
+			(at 95.25 231.6479 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 97.79 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 92.71 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "17c0c3a1-96a3-4ba5-8f63-f522f771a34c")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 53.34 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "e5c8e164-b520-4bd1-831f-b657cd3b523a")
 		(property "Reference" "C5"
@@ -14405,17 +14310,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:AO3400A")
-		(at 215.9 255.27 0)
+		(lib_id "Connector:TestPoint")
+		(at 214.63 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e8cec1f2-ba91-4725-a8ad-6a12588b7061")
-		(property "Reference" "Q4"
-			(at 222.25 253.9999 0)
+		(uuid "e8aba5fd-4759-405f-8da4-9e39075ebdde")
+		(property "Reference" "TP16"
+			(at 217.17 230.3779 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14423,8 +14328,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3400A"
-			(at 222.25 256.5399 0)
+		(property "Value" "Bat+"
+			(at 217.17 232.9179 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14432,29 +14337,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 220.98 257.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 220.98 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
-			(at 215.9 255.27 0)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 219.71 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14462,8 +14346,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C20917"
-			(at 215.9 255.27 0)
+		(property "Datasheet" "~"
+			(at 219.71 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14471,55 +14355,22 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Link" "https://www.lcsc.com/product-detail/C20917.html?s_z=n_AO3400A"
-			(at 215.9 255.27 0)
+		(property "Description" "test point"
+			(at 214.63 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "MFR.Part #" "AO3400A"
-			(at 215.9 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "AOS"
-			(at 215.9 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-3L"
-			(at 215.9 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "b0733da5-4a67-42ae-9a0f-f247f70f4959")
-		)
-		(pin "2"
-			(uuid "a7a269fe-e81c-496b-a0a8-304ec47e6444")
 		)
 		(pin "1"
-			(uuid "6448903e-7c3a-44fc-a27f-857416d64f3d")
+			(uuid "a8d7b19e-b423-4250-accc-79747b56d9e7")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "Q4")
+					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -14658,120 +14509,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 110.49 234.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "ec4d576e-cb1b-4075-91cf-32ddbca91e7f")
-		(property "Reference" "C1"
-			(at 110.998 232.918 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uf"
-			(at 110.744 237.236 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 111.4552 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part#" "C15849"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Link " "https://www.lcsc.com/product-detail/C15849.html?s_z=n_C15849"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFR.Part#" "CL10A105KB8NNNC"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 110.49 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a2a2af42-299a-48a1-919a-e58afe95091f")
-		)
-		(pin "1"
-			(uuid "671245f7-b355-4e34-b4d3-7d94b18f1ea6")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 115.57 121.92 180)
 		(unit 1)
@@ -14840,16 +14577,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 83.82 232.41 0)
+		(at 121.92 269.24 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5ecca52-4578-4fe0-921b-867acbfa9330")
-		(property "Reference" "TP3"
-			(at 86.36 227.8379 0)
+		(uuid "f2d76adb-1623-4db5-b463-46322f84c141")
+		(property "Reference" "TP4"
+			(at 127 270.256 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14857,8 +14593,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Bat+"
-			(at 86.36 230.3779 0)
+		(property "Value" "GND_"
+			(at 130.81 270.256 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14867,7 +14603,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 88.9 232.41 0)
+			(at 121.92 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14876,7 +14612,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 232.41 0)
+			(at 121.92 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14885,7 +14621,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 83.82 232.41 0)
+			(at 121.92 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14894,12 +14630,240 @@
 			)
 		)
 		(pin "1"
-			(uuid "c5af775d-c520-4efe-a90c-092ab8cd64bb")
+			(uuid "f0834eff-4e05-4012-bf19-1731392a0e76")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "TP3")
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 119.38 236.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6cb03a9-d278-4907-9160-29696912e277")
+		(property "Reference" "C1"
+			(at 119.888 234.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uf"
+			(at 119.634 238.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 120.3452 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part#" "C15849"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link " "https://www.lcsc.com/product-detail/C15849.html?s_z=n_C15849"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part#" "CL10A105KB8NNNC"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 119.38 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eceac85e-877f-4aa7-a34e-ff582c1b9187")
+		)
+		(pin "1"
+			(uuid "baa365ae-9e62-4479-8715-f0ba5d01896f")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 220.98 262.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6cb23cb-ae96-4479-bae8-d00b9fff9211")
+		(property "Reference" "R7"
+			(at 223.012 262.636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 220.98 264.668 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 219.202 262.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C25804"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Link" "https://www.lcsc.com/product-detail/C25804.html"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR.Part #" "0603WAF1002T5E"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "481da1ea-bed8-422b-9da6-64b825655596")
+		)
+		(pin "1"
+			(uuid "df9a4725-5219-4035-ac36-5e87797e9110")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R7")
 					(unit 1)
 				)
 			)

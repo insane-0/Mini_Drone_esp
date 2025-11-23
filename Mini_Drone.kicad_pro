@@ -530,13 +530,37 @@
       "Net-(D2-A)": [
         "power"
       ],
+      "Net-(D2-K)": [
+        "power"
+      ],
       "Net-(D3-A)": [
+        "power"
+      ],
+      "Net-(D3-K)": [
         "power"
       ],
       "Net-(D4-A)": [
         "power"
       ],
+      "Net-(D4-K)": [
+        "power"
+      ],
       "Net-(D6-A)": [
+        "power"
+      ],
+      "Net-(D6-K)": [
+        "power"
+      ],
+      "Net-(Q1-S)": [
+        "power"
+      ],
+      "Net-(Q2-S)": [
+        "power"
+      ],
+      "Net-(Q3-S)": [
+        "power"
+      ],
+      "Net-(Q4-S)": [
         "power"
       ]
     },
