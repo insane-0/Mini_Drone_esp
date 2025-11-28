@@ -4017,6 +4017,26 @@
 		)
 		(uuid f81408e0-8ec0-413a-af59-68165b8a9204)
 	)
+	(text "red "
+		(exclude_from_sim no)
+		(at 316.484 44.196 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0d6a983d-34d2-4b1f-9007-ce25856d4d69")
+	)
+	(text "red "
+		(exclude_from_sim no)
+		(at 328.422 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "81363be7-9d5a-4fec-a12b-f2adb8d8026d")
+	)
 	(text "INDICATING LEDS\n\n\n\n"
 		(exclude_from_sim no)
 		(at 308.61 26.924 0)
@@ -4038,6 +4058,16 @@
 			)
 		)
 		(uuid "be3c1d18-45bc-43ff-af9d-e7bc7da566ce")
+	)
+	(text "whiteyellow\n"
+		(exclude_from_sim no)
+		(at 345.186 44.958 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c58ae854-9fcb-40e4-9a4b-01a3a7888aed")
 	)
 	(text "Voltage_Regulator\n"
 		(exclude_from_sim no)
@@ -7950,7 +7980,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C965799"
+		(property "LCSC Part #" "C2286"
 			(at 313.69 46.99 90)
 			(effects
 				(font
@@ -8038,7 +8068,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C22371297"
+		(property "LCSC Part #" "C2286"
 			(at 326.39 46.99 90)
 			(effects
 				(font
@@ -13246,7 +13276,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C19171394"
+		(property "LCSC Part #" "C2290"
 			(at 337.82 46.99 90)
 			(effects
 				(font

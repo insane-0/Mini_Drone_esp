@@ -583,7 +583,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Mini_Drone.step",
       "svg": "",
       "vrml": ""
     },
