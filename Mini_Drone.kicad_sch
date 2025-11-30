@@ -1511,6 +1511,277 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mini_Drone_prj:500SSP1S1M2REA"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -2.54 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "500SSP1S1M2REA"
+				(at -2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "500SSP1S1M2REA:SW_500SSP1S1M2REA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "E-Switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://pricing.snapeda.com/search/part/500SSP1S1M2REA/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/500SSP1S1M2REA/E-Switch/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/500SSP1S1M2REA/E-Switch/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "500SSP1S1M2REA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "SWITCH SLIDE SPDT 0.4VA 20V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "500SSP1S1M2REA_0_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -5.08 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.794 2.1336)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 2.54)
+					(radius 0.3302)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -2.54)
+					(radius 0.3302)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 2.921 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 2.921 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mini_Drone_prj:MPU_6050_Module"
 			(pin_names
 				(offset 1.016)
@@ -1888,6 +2159,130 @@
 						(effects
 							(font
 								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Mini_Drone_prj:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "10k"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -4178,12 +4573,6 @@
 		(uuid "485e1ab8-6b03-46c0-a5b1-39c2e1d5ccc5")
 	)
 	(junction
-		(at 207.01 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "493a8ae1-8952-4d98-8335-0788e0863fd5")
-	)
-	(junction
 		(at 49.53 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4304,12 +4693,6 @@
 		(uuid "a55159f9-e313-4be3-b3d0-c279eda034f0")
 	)
 	(junction
-		(at 207.01 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b549b9dc-2fdd-4a05-bc21-b41a45cc3075")
-	)
-	(junction
 		(at 110.49 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4388,6 +4771,10 @@
 	(no_connect
 		(at 157.48 48.26)
 		(uuid "33504882-763a-491e-8dbe-dff2226b7558")
+	)
+	(no_connect
+		(at 207.01 43.18)
+		(uuid "53670f11-ed94-49c6-becc-fd9214bde66a")
 	)
 	(no_connect
 		(at 157.48 50.8)
@@ -4496,6 +4883,16 @@
 			(type default)
 		)
 		(uuid "0ad18b7a-2c42-4d0a-bad3-03d08e739536")
+	)
+	(wire
+		(pts
+			(xy 349.25 153.67) (xy 351.79 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0452cf-1786-4c68-8812-83531c5adb69")
 	)
 	(wire
 		(pts
@@ -4689,6 +5086,16 @@
 	)
 	(wire
 		(pts
+			(xy 359.41 168.91) (xy 364.49 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "290378c3-7e10-40e1-a221-8132ea788feb")
+	)
+	(wire
+		(pts
 			(xy 39.37 257.81) (xy 55.88 257.81)
 		)
 		(stroke
@@ -4809,6 +5216,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 43.18) (xy 201.93 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34c7868a-c882-41ac-82be-a6f10a1a6e11")
+	)
+	(wire
+		(pts
 			(xy 39.37 242.57) (xy 48.26 242.57)
 		)
 		(stroke
@@ -4836,6 +5253,16 @@
 			(type default)
 		)
 		(uuid "36e51dc9-063d-4cb6-bbce-0f8170c4c72a")
+	)
+	(wire
+		(pts
+			(xy 359.41 153.67) (xy 363.22 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "376b76ab-4641-404b-b5a2-dde567c4400b")
 	)
 	(wire
 		(pts
@@ -4906,16 +5333,6 @@
 			(type default)
 		)
 		(uuid "44714dfb-2fcb-44e3-bd80-d09111728698")
-	)
-	(wire
-		(pts
-			(xy 209.55 40.64) (xy 207.01 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "461939cd-68c4-4739-8e0d-c0b39f46e0be")
 	)
 	(wire
 		(pts
@@ -5006,16 +5423,6 @@
 			(type default)
 		)
 		(uuid "4deff00e-41f0-421e-b744-a0d0d14d64f5")
-	)
-	(wire
-		(pts
-			(xy 204.47 43.18) (xy 204.47 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f676e0d-8e34-4ecc-9802-46ce141ddca0")
 	)
 	(wire
 		(pts
@@ -5166,6 +5573,16 @@
 			(type default)
 		)
 		(uuid "5fba2b27-1e11-49d1-b957-07262a336972")
+	)
+	(wire
+		(pts
+			(xy 349.25 168.91) (xy 351.79 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "625139ef-0816-417c-ba80-3aa14c615299")
 	)
 	(wire
 		(pts
@@ -5369,6 +5786,16 @@
 	)
 	(wire
 		(pts
+			(xy 370.84 153.67) (xy 372.11 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8005de7e-9ddf-48a9-bb13-2a773ac4f973")
+	)
+	(wire
+		(pts
 			(xy 223.52 48.26) (xy 217.17 48.26)
 		)
 		(stroke
@@ -5549,6 +5976,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 40.64) (xy 209.55 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7768374-756a-40c0-b561-9d62c62f024f")
+	)
+	(wire
+		(pts
 			(xy 224.79 228.6) (xy 224.79 224.79)
 		)
 		(stroke
@@ -5669,7 +6106,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 38.1) (xy 209.55 38.1)
+			(xy 205.74 38.1) (xy 209.55 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5909,16 +6346,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 38.1) (xy 207.01 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db1c3863-64a2-4da4-9f27-cd2a2b13da08")
-	)
-	(wire
-		(pts
 			(xy 123.19 237.49) (xy 121.92 237.49)
 		)
 		(stroke
@@ -5996,26 +6423,6 @@
 			(type default)
 		)
 		(uuid "e53a8daa-a92e-49e3-9869-c8208f85e7dc")
-	)
-	(wire
-		(pts
-			(xy 204.47 43.18) (xy 207.01 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e55a6bb4-0823-45ee-836e-3bc876b5af9f")
-	)
-	(wire
-		(pts
-			(xy 207.01 38.1) (xy 207.01 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e869214d-02a8-439f-94ef-6f8e358ad6a3")
 	)
 	(wire
 		(pts
@@ -6136,16 +6543,6 @@
 			(type default)
 		)
 		(uuid "f5215d33-2abf-40b3-824a-c4700417a531")
-	)
-	(wire
-		(pts
-			(xy 207.01 43.18) (xy 207.01 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5f52c0d-9053-40df-b954-e7a2a9ac79f1")
 	)
 	(wire
 		(pts
@@ -6666,6 +7063,16 @@
 			(justify right bottom)
 		)
 		(uuid "84518b59-71a2-4455-9c6a-7048ae44b17d")
+	)
+	(label "BAT+"
+		(at 372.11 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8604584f-d4fe-4b87-a227-e4c31195f4c1")
 	)
 	(label "M1"
 		(at 59.69 83.82 180)
@@ -7911,6 +8318,72 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 349.25 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "062d5bcb-453a-4258-8b32-ca9e368e981f")
+		(property "Reference" "#PWR012"
+			(at 349.25 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 349.25 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 349.25 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 349.25 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 349.25 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0eb6542d-1a44-460b-b046-27ff59d0f507")
+		)
+		(instances
+			(project ""
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10644,6 +11117,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 349.25 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "703fc247-9ff0-403c-8739-5127c53be691")
+		(property "Reference" "#PWR013"
+			(at 349.25 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 349.25 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 349.25 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 349.25 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 349.25 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b47c7eb1-5df8-4a55-9118-c5c7f901adbe")
+		)
+		(instances
+			(project ""
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 67.31 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11738,6 +12277,92 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 355.6 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9364d235-bc47-414b-86e6-01e42f0ffa1a")
+		(property "Reference" "D8"
+			(at 354.0125 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 354.0125 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 355.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 355.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 355.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 355.6 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2286"
+			(at 355.6 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "018b73bf-7a3f-4d12-801e-5a292ca86e17")
+		)
+		(pin "1"
+			(uuid "2ca8b226-8e51-4230-a50a-37b55c04a767")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 96.52 245.11 180)
 		(unit 1)
@@ -11799,6 +12424,83 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 368.3 168.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "974e111c-5655-4a58-bfe6-5bd47870ba46")
+		(property "Reference" "R11"
+			(at 368.3 162.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220"
+			(at 368.3 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 368.3 170.688 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 368.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 368.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 368.3 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fd4ef10-7c0d-4c23-8e31-c74c4d7e34f9")
+		)
+		(pin "2"
+			(uuid "39bf8d1c-64f6-46fc-8c2c-6b6c7cd6c83f")
+		)
+		(instances
+			(project ""
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -14678,6 +15380,169 @@
 		)
 	)
 	(symbol
+		(lib_id "Mini_Drone_prj:500SSP1S1M2REA")
+		(at 204.47 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e29c94de-9cc0-4178-8b9d-53754ca31aa8")
+		(property "Reference" "S2"
+			(at 208.28 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "500SSP1S1M2REA"
+			(at 197.866 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Mini_Drone_prj:SW_500SSP1S1M2REA"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "E-Switch"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://pricing.snapeda.com/search/part/500SSP1S1M2REA/?ref=eda"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/500SSP1S1M2REA/E-Switch/view-part/?ref=eda"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/500SSP1S1M2REA/E-Switch/view-part/?ref=snap"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "500SSP1S1M2REA"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "SWITCH SLIDE SPDT 0.4VA 20V"
+			(at 204.47 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b4b83873-137d-4d5b-8410-6fa5dc632ffa")
+		)
+		(pin "2"
+			(uuid "6f4094ad-4d8f-4540-a01a-069b1e8b0f5a")
+		)
+		(pin "1"
+			(uuid "a3358d6d-22a5-43ec-8e52-a964b4148011")
+		)
+		(instances
+			(project ""
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 62.23 139.7 180)
 		(unit 1)
@@ -14926,6 +15791,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Mini_Drone_prj:R")
+		(at 367.03 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6a35f20-7ab9-4224-b8b7-f5ef853beb4f")
+		(property "Reference" "R10"
+			(at 367.03 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220"
+			(at 367.03 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 367.03 155.448 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 367.03 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 367.03 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 367.03 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d33ed531-8087-4d1b-83ea-67455c63ecfa")
+		)
+		(pin "2"
+			(uuid "d339fbdf-886b-4579-a9c2-d91bda0c129a")
+		)
+		(instances
+			(project ""
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 220.98 226.06 0)
 		(unit 1)
@@ -15059,6 +16001,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 168.91 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea9208a5-c95f-426c-9501-e995a68856aa")
+		(property "Reference" "#PWR010"
+			(at 368.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 375.666 168.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97f782b7-e611-4620-ab98-9ab57defe03b")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 217.17 49.53 0)
 		(unit 1)
@@ -15119,6 +16126,92 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 355.6 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ecdbe910-6f85-485a-adb2-2f33bcbd11a2")
+		(property "Reference" "D9"
+			(at 354.0125 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 354.0125 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 355.6 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 355.6 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 355.6 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 355.6 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2290"
+			(at 355.6 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "62797a3f-3602-46f0-a1d3-157850e7a515")
+		)
+		(pin "1"
+			(uuid "d64b92d8-2850-4977-8625-02bb7bc426c7")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "D9")
 					(unit 1)
 				)
 			)

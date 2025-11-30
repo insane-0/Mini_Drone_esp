@@ -1,4 +1,4 @@
-26770848880829408
+26772613712793311
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70596,6 +70596,13 @@ SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-1, mosfet n ch
 3
 Mini_Drone_prj
 SW_100SP1T1B4M2QE
+
+
+0
+3
+3
+Mini_Drone_prj
+SW_500SSP1S1M2REA
 
 
 0
