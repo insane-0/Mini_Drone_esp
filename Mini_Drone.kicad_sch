@@ -4555,6 +4555,12 @@
 		(uuid "272ab3bb-e1bc-40d9-b630-931b3746278f")
 	)
 	(junction
+		(at 326.39 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e06d237-c43b-412f-b6d0-45bc11cec857")
+	)
+	(junction
 		(at 171.45 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4613,12 +4619,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63620463-0507-403c-b4a4-ea508f2750d6")
-	)
-	(junction
-		(at 326.39 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "64b08cbc-54b1-4d29-9dff-695375b93a8b")
 	)
 	(junction
 		(at 247.65 232.41)
@@ -4806,16 +4806,6 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 62.23) (xy 326.39 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01ef48f8-1b42-4321-8e5f-a92a3e384e1d")
-	)
-	(wire
-		(pts
 			(xy 207.01 62.23) (xy 212.09 62.23)
 		)
 		(stroke
@@ -4986,16 +4976,6 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 50.8) (xy 326.39 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "134b05c3-71e2-4148-bcf0-4c982a6ccba4")
-	)
-	(wire
-		(pts
 			(xy 76.2 90.17) (xy 77.47 90.17)
 		)
 		(stroke
@@ -5073,16 +5053,6 @@
 			(type default)
 		)
 		(uuid "23d2515e-5c0d-40b3-9af4-bc9cc2513a94")
-	)
-	(wire
-		(pts
-			(xy 326.39 50.8) (xy 337.82 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "271df4dd-f43c-405e-bc76-0ba419aacdbe")
 	)
 	(wire
 		(pts
@@ -5433,6 +5403,16 @@
 			(type default)
 		)
 		(uuid "4f84df20-1447-4314-8f85-c26aa196e311")
+	)
+	(wire
+		(pts
+			(xy 313.69 58.42) (xy 326.39 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51799057-8b73-4bc5-be31-20fb5819fa49")
 	)
 	(wire
 		(pts
@@ -5966,6 +5946,16 @@
 	)
 	(wire
 		(pts
+			(xy 326.39 58.42) (xy 337.82 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a404c2dc-c0cd-4315-9c28-2746c99c06e6")
+	)
+	(wire
+		(pts
 			(xy 34.29 60.96) (xy 33.02 60.96)
 		)
 		(stroke
@@ -6053,6 +6043,16 @@
 			(type default)
 		)
 		(uuid "b2127291-665b-405a-98e7-c0dc5fc3491b")
+	)
+	(wire
+		(pts
+			(xy 326.39 58.42) (xy 326.39 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b37062a5-0fcd-41f5-ac7b-334ca1b73e6e")
 	)
 	(wire
 		(pts
@@ -8189,7 +8189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
 			(at 236.22 236.22 0)
 			(effects
 				(font
@@ -9200,6 +9200,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Mini_Drone_prj:R")
+		(at 326.39 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "208eb410-0f10-44c0-93cc-e67b8988c15c")
+		(property "Reference" "R13"
+			(at 328.93 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "220"
+			(at 328.93 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 328.168 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 326.39 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 326.39 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 326.39 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1875c58-aaab-4d25-b200-4122a4532e38")
+		)
+		(pin "2"
+			(uuid "fba6d964-63b4-48c7-8300-6941da8ed6b5")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 62.23 257.81 270)
 		(unit 1)
@@ -10015,7 +10094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14663.pdf"
+		(property "Datasheet" "~"
 			(at 124.46 43.18 0)
 			(effects
 				(font
@@ -10024,7 +10103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS"
+		(property "Description" "Unpolarized capacitor"
 			(at 124.46 43.18 0)
 			(effects
 				(font
@@ -11282,7 +11361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
 			(at 114.3 234.95 0)
 			(effects
 				(font
@@ -12271,6 +12350,85 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mini_Drone_prj:R")
+		(at 337.82 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "919a351d-09c7-4529-9fb1-de0ff70e89b7")
+		(property "Reference" "R14"
+			(at 340.36 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "220"
+			(at 340.36 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 339.598 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 337.82 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 337.82 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 337.82 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bcbb8e06-c1d0-47e4-be02-da733b123eb1")
+		)
+		(pin "2"
+			(uuid "aea47db1-b561-4df4-9cef-0980a6454c61")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -13403,7 +13561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1620.pdf"
+		(property "Datasheet" "~"
 			(at 227.33 48.26 0)
 			(effects
 				(font
@@ -13412,7 +13570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "50V 470pF X7R ±10% 0603 Ceramic Capacitors RoHS"
+		(property "Description" "Unpolarized capacitor"
 			(at 227.33 48.26 0)
 			(effects
 				(font
@@ -14758,7 +14916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
 			(at 48.26 232.41 0)
 			(effects
 				(font
@@ -14862,7 +15020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C8678.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
 			(at 175.26 234.95 0)
 			(effects
 				(font
@@ -14926,6 +15084,85 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mini_Drone_prj:R")
+		(at 313.69 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d749073c-7b70-4934-92e1-1071d26d503d")
+		(property "Reference" "R12"
+			(at 316.23 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "220"
+			(at 316.23 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 315.468 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 313.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 313.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 313.69 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c7c22218-3b4f-47d9-a2c0-d2447857db52")
+		)
+		(pin "2"
+			(uuid "0ed681e4-4a26-44ce-b1b1-93c7bf7a4426")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -15406,7 +15643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Mini_Drone_prj:SW_500SSP1S1M2REA"
+		(property "Footprint" "500SSP1S1M2REA:SW_500SSP1S1M2REA"
 			(at 204.47 50.8 0)
 			(effects
 				(font
@@ -15521,6 +15758,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" " C92655"
+			(at 204.47 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -15816,7 +16062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 367.03 155.448 90)
 			(effects
 				(font
