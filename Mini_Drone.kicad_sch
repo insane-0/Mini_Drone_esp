@@ -2166,130 +2166,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Mini_Drone_prj:R"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "10k"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Mini_Drone_prj:TL1105F160Q"
 			(pin_names
 				(offset 1.016)
@@ -9200,7 +9076,86 @@
 		)
 	)
 	(symbol
-		(lib_id "Mini_Drone_prj:R")
+		(lib_id "Device:R")
+		(at 313.69 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18e456f8-6faf-4d02-8f88-31dccbc621b2")
+		(property "Reference" "R17"
+			(at 316.23 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "220"
+			(at 316.23 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 315.468 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 313.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 313.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 313.69 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8dfdbcb9-ed10-4235-ac13-1a5892ddb8f6")
+		)
+		(pin "2"
+			(uuid "0b7922b2-36ea-41f0-8cbe-7d8e0654fb66")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 326.39 54.61 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9208,8 +9163,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "208eb410-0f10-44c0-93cc-e67b8988c15c")
-		(property "Reference" "R13"
+		(uuid "2862eb0b-27cc-498b-88c8-7403b056e5b2")
+		(property "Reference" "R16"
 			(at 328.93 53.3399 0)
 			(effects
 				(font
@@ -9227,7 +9182,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 328.168 54.61 90)
 			(effects
 				(font
@@ -9264,15 +9219,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "a1875c58-aaab-4d25-b200-4122a4532e38")
+			(uuid "4e32c130-9b03-4a13-ac63-aae0aa6cd59d")
 		)
 		(pin "2"
-			(uuid "fba6d964-63b4-48c7-8300-6941da8ed6b5")
+			(uuid "adee2853-c7fe-434d-877d-49e7dd1567f7")
 		)
 		(instances
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R13")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -9787,6 +9742,83 @@
 			(project ""
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 367.03 153.67 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a1c7bb1-e62b-43ae-98a7-180885a00917")
+		(property "Reference" "R12"
+			(at 367.03 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220"
+			(at 367.03 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 367.03 151.892 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 367.03 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 367.03 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 367.03 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2cd293e-60fa-411b-9db0-151faa561bb4")
+		)
+		(pin "2"
+			(uuid "a700f128-833b-4371-a3ba-92560e08a36c")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -11195,6 +11227,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 337.82 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a613aa7-09d2-4588-9039-4c3610b09b1b")
+		(property "Reference" "R15"
+			(at 340.36 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "220"
+			(at 340.36 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 339.598 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 337.82 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 337.82 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C22962"
+			(at 337.82 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78a18440-4a80-4912-9d3d-2c3b09d2626d")
+		)
+		(pin "2"
+			(uuid "eeaa544a-9a7a-4e80-b0ab-71556c30c563")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 349.25 153.67 0)
 		(unit 1)
@@ -12350,85 +12461,6 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "TP32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mini_Drone_prj:R")
-		(at 337.82 54.61 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "919a351d-09c7-4529-9fb1-de0ff70e89b7")
-		(property "Reference" "R14"
-			(at 340.36 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "220"
-			(at 340.36 55.8799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 339.598 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 337.82 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 337.82 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C22962"
-			(at 337.82 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bcbb8e06-c1d0-47e4-be02-da733b123eb1")
-		)
-		(pin "2"
-			(uuid "aea47db1-b561-4df4-9cef-0980a6454c61")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -15090,85 +15122,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mini_Drone_prj:R")
-		(at 313.69 54.61 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d749073c-7b70-4934-92e1-1071d26d503d")
-		(property "Reference" "R12"
-			(at 316.23 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "220"
-			(at 316.23 55.8799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 315.468 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 313.69 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 313.69 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C22962"
-			(at 313.69 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c7c22218-3b4f-47d9-a2c0-d2447857db52")
-		)
-		(pin "2"
-			(uuid "0ed681e4-4a26-44ce-b1b1-93c7bf7a4426")
-		)
-		(instances
-			(project "Mini_Drone"
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 147.32 38.1 0)
 		(unit 1)
@@ -15643,7 +15596,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "500SSP1S1M2REA:SW_500SSP1S1M2REA"
+		(property "Footprint" "Mini_Drone_prj:slide swithc"
 			(at 204.47 50.8 0)
 			(effects
 				(font
@@ -16031,83 +15984,6 @@
 			(project "Mini_Drone"
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mini_Drone_prj:R")
-		(at 367.03 153.67 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e6a35f20-7ab9-4224-b8b7-f5ef853beb4f")
-		(property "Reference" "R10"
-			(at 367.03 147.32 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220"
-			(at 367.03 149.86 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 367.03 155.448 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 367.03 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 367.03 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C22962"
-			(at 367.03 153.67 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d33ed531-8087-4d1b-83ea-67455c63ecfa")
-		)
-		(pin "2"
-			(uuid "d339fbdf-886b-4579-a9c2-d91bda0c129a")
-		)
-		(instances
-			(project ""
-				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
-					(reference "R10")
 					(unit 1)
 				)
 			)
