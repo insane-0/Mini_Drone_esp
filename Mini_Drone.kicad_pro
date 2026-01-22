@@ -52,7 +52,32 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|197500000|106787500|e7a686c6-ac61-40ce-b750-bf702bc6741f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|210900000|106787500|0e1485a2-426c-4f61-af2e-f4db7d4986d8|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|225500000|106787500|5c0b04a6-eb2d-4e76-b02a-2a2fb6a4e2fa|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|239900000|106787500|3693f8df-764d-4dbb-9b66-f28559e737a7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|211800000|71300000|efc5b78a-9daa-48ff-bf5d-06073a68f4e1|c02adb68-4091-4723-9de8-5a06e901fb03",
+          ""
+        ],
+        [
+          "silk_edge_clearance|230200000|71300000|efc5b78a-9daa-48ff-bf5d-06073a68f4e1|1d6bbe43-e9d0-4892-b0cd-31504e72c95a",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -127,7 +152,7 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.0,
@@ -513,6 +538,18 @@
         "power"
       ],
       "/BAT+M": [
+        "power"
+      ],
+      "/gnd1": [
+        "power"
+      ],
+      "/gnd2": [
+        "power"
+      ],
+      "/gnd3": [
+        "power"
+      ],
+      "/gnd4": [
         "power"
       ],
       "Net-(D1-A)": [

@@ -6536,6 +6536,16 @@
 		)
 		(uuid "1b474e45-9ba3-42a8-81fe-97625420c868")
 	)
+	(label "gnd4"
+		(at 247.65 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d04eae9-2206-46e4-92a4-29f5cb3544b7")
+	)
 	(label "IO0"
 		(at 24.13 74.93 0)
 		(effects
@@ -6866,6 +6876,16 @@
 		)
 		(uuid "6199e1a0-2192-4ff3-ad3e-2e76b197a365")
 	)
+	(label "gnd3"
+		(at 127 260.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "70e113be-99a1-46fd-9a32-4195aa361b50")
+	)
 	(label "IO41"
 		(at 91.44 71.12 0)
 		(effects
@@ -6885,6 +6905,16 @@
 			(justify right bottom)
 		)
 		(uuid "77aee5eb-87f1-498f-86de-9d0e7dd7a32b")
+	)
+	(label "gnd1"
+		(at 60.96 257.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c1aeb4c-3aeb-4b98-869e-3c61bd26ae83")
 	)
 	(label "BAT+"
 		(at 207.01 62.23 180)
@@ -7185,6 +7215,16 @@
 			(justify right bottom)
 		)
 		(uuid "e5a3cd39-a431-4103-8b3a-550457c51629")
+	)
+	(label "gnd2"
+		(at 187.96 260.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9d1d3cc-c4e2-4f5e-9677-bdc75a9385ca")
 	)
 	(label "EN"
 		(at 262.89 30.48 180)
@@ -8910,7 +8950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 152.4 245.11 0)
 			(effects
 				(font
@@ -8976,7 +9016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 193.04 236.22 0)
 			(effects
 				(font
@@ -9042,7 +9082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 189.23 265.43 0)
 			(effects
 				(font
@@ -9266,7 +9306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 62.23 262.89 0)
 			(effects
 				(font
@@ -9332,7 +9372,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 66.04 233.68 0)
 			(effects
 				(font
@@ -9925,7 +9965,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 213.36 246.38 0)
 			(effects
 				(font
@@ -10024,6 +10064,72 @@
 			(project ""
 				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 194.7512 232.7095 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b285009-9b17-4319-98e1-cc3dded4729a")
+		(property "Reference" "TP33"
+			(at 199.8312 233.7255 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 203.6412 233.7255 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
+			(at 194.7512 237.7895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 194.7512 237.7895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 194.7512 232.7095 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ac34999-18ca-4cec-942f-0b3d5839b127")
+		)
+		(instances
+			(project "Mini_Drone"
+				(path "/d47445ad-10e9-49aa-a867-c91f8f8ff1e7"
+					(reference "TP33")
 					(unit 1)
 				)
 			)
@@ -10781,7 +10887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 135.89 228.6 0)
 			(effects
 				(font
@@ -10847,7 +10953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 250.19 266.7 0)
 			(effects
 				(font
@@ -10914,7 +11020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 69.85 226.06 0)
 			(effects
 				(font
@@ -11259,7 +11365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 25.4 242.57 0)
 			(effects
 				(font
@@ -12499,7 +12605,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 257.81 229.87 0)
 			(effects
 				(font
@@ -12652,7 +12758,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 91.44 245.11 0)
 			(effects
 				(font
@@ -13001,7 +13107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 165.1 224.79 0)
 			(effects
 				(font
@@ -14137,7 +14243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 38.1 222.25 0)
 			(effects
 				(font
@@ -14482,7 +14588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 254 237.49 0)
 			(effects
 				(font
@@ -14717,7 +14823,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 196.85 228.6 0)
 			(effects
 				(font
@@ -14880,7 +14986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 132.08 236.22 0)
 			(effects
 				(font
@@ -15908,7 +16014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 104.14 224.79 0)
 			(effects
 				(font
@@ -16089,7 +16195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 226.06 226.06 0)
 			(effects
 				(font
@@ -16505,7 +16611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm"
 			(at 128.27 265.43 0)
 			(effects
 				(font
